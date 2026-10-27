@@ -1,0 +1,38 @@
+name: Error durante la prueba
+description: Reporta un fallo de Ather Mods o de la carga de mods.
+title: "[Test] "
+labels: []
+body:
+  - type: input
+    id: device
+    attributes:
+      label: Modelo del teléfono y versión de Android
+      placeholder: Z60 / Android 15
+    validations:
+      required: true
+  - type: input
+    id: versions
+    attributes:
+      label: Versiones de Ather Mods y del juego
+      placeholder: 0.10.1-alpha39 / Google Play 2.3.1 (100)
+    validations:
+      required: true
+  - type: textarea
+    id: mods
+    attributes:
+      label: Mods importados y seleccionados
+      description: Indica cuáles son de cliente y cuáles están en el perfil del mundo.
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: Qué hiciste y qué ocurrió
+      description: Incluye pasos, resultado esperado, mensaje de error y si se repite.
+    validations:
+      required: true
+  - type: textarea
+    id: logs
+    attributes:
+      label: Diagnóstico y capturas
+      description: Adjunta el TXT exportado por el gestor, revisado para retirar datos personales. No incluyas credenciales ni partidas privadas.

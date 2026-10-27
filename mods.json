@@ -1,0 +1,205 @@
+{
+  "as_of": "2026-10-27",
+  "validation": "Entrada en partida; compatibilidad de funciones individuales pendiente.",
+  "mods": [
+    {
+      "name": "Ather Perspective",
+      "role": "cliente",
+      "version": "0.1.2-alpha",
+      "author": "Ather",
+      "file": "Ather-Perspective-0.1.2-alpha.zip",
+      "bytes": 9061770,
+      "sha256": "66c6d9e0eaa21f9af090081654f649f9505b0edbedcaee4ff1f68e46b04a76e2",
+      "download": "https://github.com/AtherXyz/AtherMods-Community/releases/download/v0.10.1-alpha39/Ather-Perspective-0.1.2-alpha.zip",
+      "tested_entry": "S23 Ultra · alpha36; Z60 · alpha39"
+    },
+    {
+      "name": "Ather Slots",
+      "role": "cliente",
+      "version": "0.2.5-r2",
+      "author": "Dario",
+      "file": "Ather-Slots-0.2.5-r2.zip",
+      "bytes": 4845210,
+      "sha256": "84e9c11967003bd29095f171fd13d232313887de6c4e74151f43c0e279b0b7d8",
+      "download": "https://github.com/AtherXyz/AtherMods-Community/releases/download/v0.10.1-alpha39/Ather-Slots-0.2.5-r2.zip",
+      "tested_entry": "Z60 · alpha39",
+      "archive_note": "ZIP de exportación con compresión distinta al importado; los 12 archivos coinciden byte a byte con el runtime probado."
+    },
+    {
+      "name": "Functional Medal",
+      "role": "servidor/compartido",
+      "version": "1.6.7.1",
+      "author": "恒子、|白日(画师)|BCI(动画)",
+      "file": "Functional-Medal-1.6.7.1.zip",
+      "bytes": 33039697,
+      "sha256": "1300d6b93e08a9ff243fde8dce0b534cdace699b290292c02a4ea71f151e8ed6",
+      "download": "https://github.com/AtherXyz/AtherMods-Community/releases/download/v0.10.1-alpha39/Functional-Medal-1.6.7.1.zip",
+      "tested_entry": "S23 Ultra · alpha36; Z60 · alpha39"
+    },
+    {
+      "name": "Boss Indicator",
+      "role": "cliente",
+      "version": "1.0",
+      "author": "Ryuu",
+      "file": "boss-indicator.zip",
+      "bytes": 148455,
+      "sha256": "2652cf1b1fc83ede0d51fb02c7e169851df41befec7921a79307363e6d409e0b",
+      "download": "https://github.com/AtherXyz/AtherMods-Community/releases/download/v0.10.1-alpha39/boss-indicator.zip",
+      "tested_entry": "S23 Ultra · alpha36 (prueba conjunta)"
+    },
+    {
+      "name": "Auto Actions",
+      "role": "cliente",
+      "version": "1.1.2-mobile-perf1",
+      "author": "Jespercal",
+      "file": "auto-actions.zip",
+      "bytes": 33232,
+      "sha256": "3211bfd35c5aaa27af70f4ff8851779dde259069d5da5acf462b9fd4d6bb48bd",
+      "download": "https://github.com/AtherXyz/AtherMods-Community/releases/download/v0.10.1-alpha39/auto-actions.zip",
+      "tested_entry": "S23 Ultra · alpha36 (prueba conjunta)"
+    },
+    {
+      "name": "Enhanced Touch Interaction",
+      "role": "cliente",
+      "version": "2.0.0",
+      "author": "吹雪荡漾",
+      "file": "enhanced-touch-interaction.zip",
+      "bytes": 45461,
+      "sha256": "51ab05bade2aef145f68d5d5688af7db791f428123b0ca05e9c39f269d014d92",
+      "download": "https://github.com/AtherXyz/AtherMods-Community/releases/download/v0.10.1-alpha39/enhanced-touch-interaction.zip",
+      "tested_entry": "S23 Ultra · alpha36 (prueba conjunta)"
+    },
+    {
+      "name": "Auto Walking",
+      "role": "cliente",
+      "version": "3.8.2",
+      "author": "川小胖 & Fengying(original author)",
+      "file": "auto-walking.zip",
+      "bytes": 134106,
+      "sha256": "77088afdc5e7a2b5961e637b107cb7c9cc63fcc9ab99e6e6d1cbd9242242a274",
+      "download": "https://github.com/AtherXyz/AtherMods-Community/releases/download/v0.10.1-alpha39/auto-walking.zip",
+      "tested_entry": "S23 Ultra · alpha36 (prueba conjunta)"
+    },
+    {
+      "name": "Cave RAM Unlock",
+      "role": "cliente",
+      "version": "1.0.0",
+      "author": "A I",
+      "file": "cave-ram-unlock.zip",
+      "bytes": 1289,
+      "sha256": "79ca2f7b083dc690031737cb7d2f1ea7e8a34b89f7e53bef08aca31fa9a52cdf",
+      "download": "https://github.com/AtherXyz/AtherMods-Community/releases/download/v0.10.1-alpha39/cave-ram-unlock.zip",
+      "tested_entry": "S23 Ultra · alpha36 (prueba conjunta)"
+    },
+    {
+      "name": "Combined Status",
+      "role": "cliente",
+      "version": "1.9.2C-mobile-hud4",
+      "author": "rezecib, Kiopho, Soilworker, hotmatrixx, penguin0616",
+      "file": "combined-status.zip",
+      "bytes": 187621,
+      "sha256": "7dc0b0940586ee6024c88140c3803e7bb4a6d7eeb90b167f8977b40d162c54c5",
+      "download": "https://github.com/AtherXyz/AtherMods-Community/releases/download/v0.10.1-alpha39/combined-status.zip",
+      "tested_entry": "S23 Ultra · alpha36 (prueba conjunta)"
+    },
+    {
+      "name": "Quick Sort",
+      "role": "cliente",
+      "version": "1.0.4",
+      "author": "Beidao Hanxin",
+      "file": "quick-sort.zip",
+      "bytes": 23094,
+      "sha256": "e03bb0a24d0ede110b4e10a10c4aa73b04cc41cba493c47b6a5f3dfb023ebf01",
+      "download": "https://github.com/AtherXyz/AtherMods-Community/releases/download/v0.10.1-alpha39/quick-sort.zip",
+      "tested_entry": "S23 Ultra · alpha36 (prueba conjunta)"
+    },
+    {
+      "name": "Attack Range Display",
+      "role": "servidor/compartido",
+      "version": "1.5",
+      "author": "ClumsyNoob",
+      "file": "attack-range-display.zip",
+      "bytes": 70634,
+      "sha256": "897e6cf270f89a6016dcbc90f765e93b7a2ae31ce6a2373ee1cdb7b067008eb5",
+      "download": "https://github.com/AtherXyz/AtherMods-Community/releases/download/v0.10.1-alpha39/attack-range-display.zip",
+      "tested_entry": "S23 Ultra · alpha36 (prueba conjunta)"
+    },
+    {
+      "name": "Auto Stack & Pickup",
+      "role": "servidor/compartido",
+      "version": "0.3.1-mobile23-ground-sweep",
+      "author": "Ultroman / Android adaptation by Yucheng",
+      "file": "auto-stack-pickup.zip",
+      "bytes": 24130,
+      "sha256": "55fb47ba0a45a3875aa2c159505fbe58e715f9e42542d74bfcb9336a4fd90c2a",
+      "download": "https://github.com/AtherXyz/AtherMods-Community/releases/download/v0.10.1-alpha39/auto-stack-pickup.zip",
+      "tested_entry": "S23 Ultra · alpha36 (prueba conjunta)"
+    },
+    {
+      "name": "Craft From Nearby Chests",
+      "role": "servidor/compartido",
+      "version": "1.2.8-mobile1",
+      "author": "Generated with Claude Code",
+      "file": "craft-from-chests.zip",
+      "bytes": 14240,
+      "sha256": "4d9d2575096ae88e1ec245842933f2752c8481372eaf57d829179c51df3f412a",
+      "download": "https://github.com/AtherXyz/AtherMods-Community/releases/download/v0.10.1-alpha39/craft-from-chests.zip",
+      "tested_entry": "S23 Ultra · alpha36 (prueba conjunta)"
+    },
+    {
+      "name": "Damage Display",
+      "role": "servidor/compartido",
+      "version": "1.06",
+      "author": "一颗阳桃树",
+      "file": "damage-display.zip",
+      "bytes": 8977,
+      "sha256": "4acc397a1777941559e82e79408a3aebc1490aab85d35c6a112e8add977e8eb2",
+      "download": "https://github.com/AtherXyz/AtherMods-Community/releases/download/v0.10.1-alpha39/damage-display.zip",
+      "tested_entry": "S23 Ultra · alpha36 (prueba conjunta)"
+    },
+    {
+      "name": "Epic Healthbar",
+      "role": "servidor/compartido",
+      "version": "102",
+      "author": "Tykvesh",
+      "file": "epic-healthbar.zip",
+      "bytes": 1756885,
+      "sha256": "626a9bcefbaca488978dde201b57bb328259ca6be7f5c4a3dd6ff2fdc73c0b1e",
+      "download": "https://github.com/AtherXyz/AtherMods-Community/releases/download/v0.10.1-alpha39/epic-healthbar.zip",
+      "tested_entry": "S23 Ultra · alpha36 (prueba conjunta)"
+    },
+    {
+      "name": "Simple Health Bar",
+      "role": "servidor/compartido",
+      "version": "0.5.29-mobile3",
+      "author": "DYC / Reforged maintainer; mobile compatibility port",
+      "file": "simple-health-bar.zip",
+      "bytes": 197612,
+      "sha256": "50bd1d956980a84b3177e201456d6ae38aa71ae0b2fabf786daef89a4559abfd",
+      "download": "https://github.com/AtherXyz/AtherMods-Community/releases/download/v0.10.1-alpha39/simple-health-bar.zip",
+      "tested_entry": "S23 Ultra · alpha36 (prueba conjunta)"
+    },
+    {
+      "name": "Smart Minisign",
+      "role": "servidor/compartido",
+      "version": "1.1.8",
+      "author": "Xiaobanhua mamjun1",
+      "file": "smart-minisign.zip",
+      "bytes": 7924,
+      "sha256": "454bc58b06a53c06dae9141b1c84d9bb086e912c27ebce87ff568eeaacfbccc7",
+      "download": "https://github.com/AtherXyz/AtherMods-Community/releases/download/v0.10.1-alpha39/smart-minisign.zip",
+      "tested_entry": "S23 Ultra · alpha36 (prueba conjunta)"
+    },
+    {
+      "name": "Targeting Optimisation",
+      "role": "servidor/compartido",
+      "version": "1.0.0",
+      "author": "DST mobile port",
+      "file": "targeting-optimisation.zip",
+      "bytes": 3179,
+      "sha256": "29682bdbf3de1329cf3eaf560f318521d2197c50241dc4eacb062eef9018e79b",
+      "download": "https://github.com/AtherXyz/AtherMods-Community/releases/download/v0.10.1-alpha39/targeting-optimisation.zip",
+      "tested_entry": "S23 Ultra · alpha36 (prueba conjunta)"
+    }
+  ]
+}
