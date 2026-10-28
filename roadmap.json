@@ -24,8 +24,7 @@
         "Registrar FPS, tiempo de fotograma p50/p95/p99, memoria PSS y pico cuando estén disponibles; declarar el método y cualquier dato inaccesible.",
         "Comparar al inicio y tras 20 minutos, anotando estado térmico, batería/carga y condiciones para detectar degradación sostenida.",
         "Publicar una tabla de referencia anonimizada con cifras reales y un criterio reproducible de comparación."
-      ],
-      "votes": 0
+      ]
     },
     {
       "id": "M2",
@@ -44,8 +43,7 @@
         "Conservar una correspondencia entre identidad original del mod y la identidad interna del gestor, sin sustituir silenciosamente versiones.",
         "Comprobar prioridad y desempate de carga frente al contrato de escritorio; conservar el orden que ya funciona.",
         "Probar dependencias presentes/ausentes, nombres duplicados, reimportación y configuración sin ejecutar modmain durante el descubrimiento."
-      ],
-      "votes": 0
+      ]
     },
     {
       "id": "M3",
@@ -64,8 +62,7 @@
         "Verificar registro de RPC nativo cliente/servidor donde proceda, manteniendo separadas las instancias y los perfiles.",
         "Probar AtherKeybinds con un atajo de otro mod y la convivencia de Slots, Perspective y Medal; distinguir evento Lua de acción nativa.",
         "Mostrar incompatibilidades y dependencias antes de entrar, conservando datos de selección y diagnóstico por mod."
-      ],
-      "votes": 0
+      ]
     },
     {
       "id": "M4",
@@ -85,8 +82,7 @@
         "Comprobar retirada de tareas, listeners y widgets propios al salir/reentrar para evitar acumulación.",
         "Comparar original y optimizado en tres repeticiones; objetivo inicial: reducir al menos un 20% el p95 del tiempo de fotograma en el escenario limitado por CPU.",
         "Validar que el cambio conserva mecánicas y guardados, y cuantificar el coste del propio diagnóstico."
-      ],
-      "votes": 0
+      ]
     },
     {
       "id": "M5",
@@ -105,8 +101,7 @@
         "Medir PSS y pico con el mismo mundo/pack/cámara: objetivo inicial de al menos un 15% menos memoria PSS pico del proceso; separar memoria gráfica si el dispositivo la expone.",
         "Investigar resolución interna y reescalado por una ruta verificada del motor. Si no existe acceso compatible, registrar NO VIABLE en esta fase y conservar la opción desactivada.",
         "Completar 30 minutos y tres reentradas sin cierres ni crecimiento sostenido atribuible al cambio; registrar además el comportamiento térmico."
-      ],
-      "votes": 0
+      ]
     },
     {
       "id": "M6",
@@ -126,8 +121,7 @@
         "Completar cinco ciclos de guardar/salir/cerrar proceso/reabrir en superficie y cinco en cuevas sin pérdida de progreso.",
         "Completar cinco viajes de ida y vuelta, comprobando inventario, construcciones de prueba, mapa explorado, ubicación y reloj del mundo.",
         "Probar recuperación de interrupciones sobre copias de prueba y conversión de formato cuando esté soportada; bloquear estados ambiguos sin cargar una instantánea antigua silenciosamente."
-      ],
-      "votes": 0
+      ]
     },
     {
       "id": "M7",
@@ -147,8 +141,7 @@
         "Reordenar acciones principales, adaptar zonas seguras y escala en S23 Ultra y Z60, con marcos decorativos encima de iconos donde corresponda y hitboxes verificadas.",
         "Probar abrir/cerrar/configurar desde menú principal, selección de mundo y lobby, y comprobar el retorno del botón tras salir de partida.",
         "Conservar selección/configuración entre sesiones y mantener un recorrido normal sin consola ni comandos manuales."
-      ],
-      "votes": 0
+      ]
     },
     {
       "id": "M8",
@@ -171,8 +164,61 @@
         "Publicar resultados medidos, cambios de calidad, funciones desactivadas, errores conocidos y casos no comprobados.",
         "Entregar APK/ZIP versionados, hashes y descargas directas con instrucciones para testers; reservar cualquier componente no validado como experimental.",
         "Mantener un formulario de feedback y trazabilidad entre cada resultado, issue y entrega."
-      ],
-      "votes": 0
+      ]
     }
-  ]
+  ],
+  "tasks": [
+    {
+      "title": "Crear el roadmap",
+      "done": true,
+      "url": "https://github.com/AtherXyz/AtherMods-Community/blob/main/ROADMAP.md"
+    },
+    {
+      "title": "Medir FPS y consumo de RAM",
+      "done": false,
+      "url": "https://github.com/AtherXyz/AtherMods-Community/issues/1"
+    },
+    {
+      "title": "Resolver y verificar el arranque en Samsung",
+      "done": false,
+      "url": "https://github.com/AtherXyz/AtherMods-Community/issues/1"
+    },
+    {
+      "title": "Mejorar el filtrado y las dependencias",
+      "done": false,
+      "url": "https://github.com/AtherXyz/AtherMods-Community/issues/2"
+    },
+    {
+      "title": "Mejorar la comunicación entre mods",
+      "done": false,
+      "url": "https://github.com/AtherXyz/AtherMods-Community/issues/3"
+    },
+    {
+      "title": "Optimizar tareas Lua y el HUD",
+      "done": false,
+      "url": "https://github.com/AtherXyz/AtherMods-Community/issues/4"
+    },
+    {
+      "title": "Preparar texturas y un perfil ligero",
+      "done": false,
+      "url": "https://github.com/AtherXyz/AtherMods-Community/issues/5"
+    },
+    {
+      "title": "Adaptar Alone y comprobar los guardados",
+      "done": false,
+      "url": "https://github.com/AtherXyz/AtherMods-Community/issues/6"
+    },
+    {
+      "title": "Reordenar y mejorar el menú nativo",
+      "done": false,
+      "url": "https://github.com/AtherXyz/AtherMods-Community/issues/7"
+    },
+    {
+      "title": "Probar en ambos teléfonos y entregar",
+      "done": false,
+      "url": "https://github.com/AtherXyz/AtherMods-Community/issues/8"
+    }
+  ],
+  "completed_tasks": 1,
+  "total_tasks": 10
 }

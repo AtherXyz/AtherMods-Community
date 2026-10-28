@@ -6,20 +6,37 @@
 
 **[Abrir cuadro general y seguimiento de etapas](https://github.com/AtherXyz/AtherMods-Community/issues/9)** · [Datos del cuadro](roadmap.json) · [Descargas actuales](README.md#descargas)
 
+## Lista de tareas
+
+**1/10 tareas completadas:** roadmap creado. El trabajo técnico de este nuevo alcance sigue pendiente.
+
+- [x] [Crear el roadmap](https://github.com/AtherXyz/AtherMods-Community/blob/main/ROADMAP.md)
+- [ ] [Medir FPS y consumo de RAM](https://github.com/AtherXyz/AtherMods-Community/issues/1)
+- [ ] [Resolver y verificar el arranque en Samsung](https://github.com/AtherXyz/AtherMods-Community/issues/1)
+- [ ] [Mejorar el filtrado y las dependencias](https://github.com/AtherXyz/AtherMods-Community/issues/2)
+- [ ] [Mejorar la comunicación entre mods](https://github.com/AtherXyz/AtherMods-Community/issues/3)
+- [ ] [Optimizar tareas Lua y el HUD](https://github.com/AtherXyz/AtherMods-Community/issues/4)
+- [ ] [Preparar texturas y un perfil ligero](https://github.com/AtherXyz/AtherMods-Community/issues/5)
+- [ ] [Adaptar Alone y comprobar los guardados](https://github.com/AtherXyz/AtherMods-Community/issues/6)
+- [ ] [Reordenar y mejorar el menú nativo](https://github.com/AtherXyz/AtherMods-Community/issues/7)
+- [ ] [Probar en ambos teléfonos y entregar](https://github.com/AtherXyz/AtherMods-Community/issues/8)
+
+✅ Completada y verificada · ⬜ Pendiente. Cada tarea técnica se marca al cumplir sus criterios y aportar evidencia.
+
 ## Cuadro de progreso medible
 
-| Etapa | Resultado que se busca | Criterios aprobados | Depende de | Estado | 👍 |
-| --- | --- | --- | --- | --- | --- |
-| [M1](https://github.com/AtherXyz/AtherMods-Community/issues/1) | Base de medición y arranque fiable | 0/6 | — | Planificado | [0 · votar](https://github.com/AtherXyz/AtherMods-Community/issues/1) |
-| [M2](https://github.com/AtherXyz/AtherMods-Community/issues/2) | Filtrado e identidades de mods frente a escritorio | 0/6 | M1 | Planificado | [0 · votar](https://github.com/AtherXyz/AtherMods-Community/issues/2) |
-| [M3](https://github.com/AtherXyz/AtherMods-Community/issues/3) | Comunicación e interoperabilidad entre mods | 0/6 | M2 | Planificado | [0 · votar](https://github.com/AtherXyz/AtherMods-Community/issues/3) |
-| [M4](https://github.com/AtherXyz/AtherMods-Community/issues/4) | Optimización de CPU, tareas Lua y HUD | 0/6 | M1, M3 | Planificado | [0 · votar](https://github.com/AtherXyz/AtherMods-Community/issues/4) |
-| [M5](https://github.com/AtherXyz/AtherMods-Community/issues/5) | Perfil de RAM reducida y calidad gráfica | 0/6 | M1 | Planificado | [0 · votar](https://github.com/AtherXyz/AtherMods-Community/issues/5) |
-| [M6](https://github.com/AtherXyz/AtherMods-Community/issues/6) | Alone de escritorio y persistencia individual | 0/6 | M2, M3 | Planificado | [0 · votar](https://github.com/AtherXyz/AtherMods-Community/issues/6) |
-| [M7](https://github.com/AtherXyz/AtherMods-Community/issues/7) | Menú nativo protagonista y diseño móvil | 0/6 | M2, M3 | Planificado | [0 · votar](https://github.com/AtherXyz/AtherMods-Community/issues/7) |
-| [M8](https://github.com/AtherXyz/AtherMods-Community/issues/8) | Regresión, entrega y pruebas de comunidad | 0/7 | M4, M5, M6, M7 | Planificado | [0 · votar](https://github.com/AtherXyz/AtherMods-Community/issues/8) |
+| Etapa | Resultado que se busca | Criterios aprobados | Depende de | Estado |
+| --- | --- | --- | --- | --- |
+| [M1](https://github.com/AtherXyz/AtherMods-Community/issues/1) | Base de medición y arranque fiable | 0/6 | — | Planificado |
+| [M2](https://github.com/AtherXyz/AtherMods-Community/issues/2) | Filtrado e identidades de mods frente a escritorio | 0/6 | M1 | Planificado |
+| [M3](https://github.com/AtherXyz/AtherMods-Community/issues/3) | Comunicación e interoperabilidad entre mods | 0/6 | M2 | Planificado |
+| [M4](https://github.com/AtherXyz/AtherMods-Community/issues/4) | Optimización de CPU, tareas Lua y HUD | 0/6 | M1, M3 | Planificado |
+| [M5](https://github.com/AtherXyz/AtherMods-Community/issues/5) | Perfil de RAM reducida y calidad gráfica | 0/6 | M1 | Planificado |
+| [M6](https://github.com/AtherXyz/AtherMods-Community/issues/6) | Alone de escritorio y persistencia individual | 0/6 | M2, M3 | Planificado |
+| [M7](https://github.com/AtherXyz/AtherMods-Community/issues/7) | Menú nativo protagonista y diseño móvil | 0/6 | M2, M3 | Planificado |
+| [M8](https://github.com/AtherXyz/AtherMods-Community/issues/8) | Regresión, entrega y pruebas de comunidad | 0/7 | M4, M5, M6, M7 | Planificado |
 
-Cada enlace abre una issue con la lista verificable. Los 👍 son reacciones reales: el número de esta tabla es una fotografía de la fecha indicada; el recuento actual se consulta en cada issue. Las casillas de la issue general permiten seguir las etapas cerradas. Los votos orientan el interés de la comunidad; las dependencias técnicas y la conservación de partidas condicionan el orden.
+Cada enlace abre una issue con criterios verificables. Las casillas indican trabajo completado; las dependencias técnicas y la conservación de partidas condicionan el orden.
 
 ## Medidas de éxito
 
@@ -145,7 +162,7 @@ Mundos, ZIP originales, entregas públicas anteriores y perfiles de usuario se c
 - **PASS FÍSICO:** comprobación realizada por Ather en el teléfono.
 - **BLOQUEADO / NO VIABLE / PARCIAL:** motivo y alcance publicados.
 
-Una etapa se marca cerrada solo cuando sus criterios aplicables tienen evidencia y sus límites quedan documentados. No se suman compilaciones o votos como si fueran mejoras de rendimiento. La tabla y roadmap.json se actualizarán al cerrar entregas o incorporar evidencia; no hay automatización periódica configurada.
+Una etapa se marca cerrada solo cuando sus criterios aplicables tienen evidencia y sus límites quedan documentados. Una compilación por sí sola no demuestra una mejora de rendimiento. La tabla y roadmap.json se actualizarán al cerrar entregas o incorporar evidencia; no hay automatización periódica configurada.
 
 ## Próximo paso
 

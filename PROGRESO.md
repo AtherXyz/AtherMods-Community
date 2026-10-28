@@ -35,4 +35,4 @@ El objetivo es elegir mods desde el propio juego, conservarlos por mundo y entra
 
 ## Próxima evolución
 
-[Roadmap de interfaz, compatibilidad y rendimiento](ROADMAP.md): ocho etapas, 49 criterios verificables y votos 👍 por etapa. Plan publicado el 28 de octubre de 2026; implementación de este alcance pendiente. No modifica el estado de las pruebas de alpha39 descritas arriba.
+[Roadmap de interfaz, compatibilidad y rendimiento](ROADMAP.md): lista de diez tareas con casillas de progreso, ocho etapas y 49 criterios verificables. Plan publicado el 28 de octubre de 2026; implementación de este alcance pendiente. No modifica el estado de las pruebas de alpha39 descritas arriba.
