@@ -32,3 +32,7 @@ En Z60, el sistema terminaba el gestor en segundo plano. Tras cambiar su políti
 - Ampliar dispositivos, versiones de Android y versiones del juego.
 
 El objetivo es elegir mods desde el propio juego, conservarlos por mundo y entrar de forma natural, sin consola ni comandos. Esta entrega es una **alpha para testers**.
+
+## Próxima evolución
+
+[Roadmap de interfaz, compatibilidad y rendimiento](ROADMAP.md): ocho etapas, 49 criterios verificables y votos 👍 por etapa. Plan publicado el 28 de octubre de 2026; implementación de este alcance pendiente. No modifica el estado de las pruebas de alpha39 descritas arriba.

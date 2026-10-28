@@ -11,6 +11,8 @@ Estamos buscando testers. La versión actual es **0.10.1-alpha39**: ya conseguim
 - [Versión, archivos y notas de entrega](https://github.com/AtherXyz/AtherMods-Community/releases/tag/v0.10.1-alpha39)
 - [Instalación y primera prueba](TESTERS.md)
 - [Progreso y límites actuales](PROGRESO.md)
+- **[Roadmap medible: interfaz, compatibilidad y rendimiento](ROADMAP.md)**
+- [Cuadro general y votos 👍](https://github.com/AtherXyz/AtherMods-Community/issues/9)
 - [Reportar un error](https://github.com/AtherXyz/AtherMods-Community/issues/new?template=error.yml)
 
 ## Qué necesitamos para probar
