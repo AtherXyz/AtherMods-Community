@@ -1,5 +1,11 @@
 # Cambios / Changelog
 
+## 2026-10-31 — APK Eco82 pública / Public Eco82 APK
+
+ES: Se publica la APK exacta 0.13.4-alpha82-eco1, sin recompilar ni modificar sus bytes. Se añade la descarga al README, página de la app, guía y manifiesto. Se verifica descarga anónima, tamaño y SHA-256. Se conservan alpha39 y las releases de mods. No se ejecutan nuevas pruebas del juego.
+
+EN: The exact 0.13.4-alpha82-eco1 APK is published without rebuilding or changing its bytes. The download is added to the README, app page, guide and manifest. Anonymous download, size and SHA-256 are verified. alpha39 and mod releases are preserved. No new gameplay tests are performed.
+
 ## 2026-10-31 — Los 30 mods / All 30 mods
 
 **ES:** Se publican los 30 ZIP exactos de Ather Modpack como descargas individuales, incluidos Slots 0.4.0-alpha9-QA, Perspective 0.1.4-alpha10, Keybinds 0.2.0-alpha4 y Combo 0.1.0-alpha6-client. Se actualizan catálogo, manifiesto y enlaces. No se modifica ningún ZIP ni se ejecutan nuevas pruebas del juego. La APK Eco82 no forma parte de esta release.

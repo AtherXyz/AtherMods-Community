@@ -1,12 +1,14 @@
 # Instalación / Installation
 
-**ES:** Esta guía describe Eco82. Su APK aún no tiene descarga pública autorizada; no sustituyas otra versión ni uses la guía de alpha39 como si correspondiera a Eco82. Conserva tus partidas y los ZIP originales antes de cambiar la selección.
+**ES:** Esta guía describe Eco82. Descarga su APK desde el enlace siguiente; no uses la guía de alpha39 como si correspondiera a Eco82. Conserva tus partidas y los ZIP originales antes de cambiar la selección.
 
-**EN:** This guide describes Eco82. Its APK does not yet have an authorized public download; do not substitute another version or treat the alpha39 guide as an Eco82 guide. Keep your saves and original ZIPs before changing the selection.
+**EN:** This guide describes Eco82. Download its APK from the link below; do not treat the alpha39 guide as an Eco82 guide. Keep your saves and original ZIPs before changing the selection.
+
+[Descargar APK / Download APK](https://github.com/AtherXyz/AtherMods-Community/releases/download/v0.13.4-alpha82-eco1/AtherMods_0.13.4-alpha82-eco1.apk)
 
 | Paso / Step | Español | English |
 | --- | --- | --- |
-| 1 | Cuando esté disponible, descarga Ather Mods desde [Descargas](DOWNLOADS.md), verifica su versión e instala la APK. Permite instalar desde esa fuente solo si Android lo solicita. | When available, download Ather Mods from [Downloads](DOWNLOADS.md), verify its version and install the APK. Allow installation from that source only if Android requests it. |
+| 1 | Descarga Ather Mods desde [Descargas](DOWNLOADS.md), verifica su versión e instala la APK. Permite instalar desde esa fuente solo si Android lo solicita. | Download Ather Mods from [Downloads](DOWNLOADS.md), verify its version and install the APK. Allow installation from that source only if Android requests it. |
 | 2 | Instala tu copia original de Don't Starve Together desde Google Play. No se proporciona el juego. | Install your original copy of Don't Starve Together from Google Play. The game is not provided. |
 | 3 | El entorno probado es Playdigious Android 2.3.1, código 100. No se ha confirmado compatibilidad con versiones posteriores. | The tested environment is Playdigious Android 2.3.1, version code 100. Compatibility with later versions has not been confirmed. |
 | 4 | Instala e inicia [Shizuku](https://shizuku.rikka.app/) siguiendo sus instrucciones oficiales. Debe seguir activo al usar Ather Mods. | Install and start [Shizuku](https://shizuku.rikka.app/) following its official instructions. Keep it running while using Ather Mods. |

@@ -2,9 +2,13 @@
 
 **0.13.4-alpha82-eco1 — STABLE BETA / BETA ESTABLE**
 
-**ES:** Estado aceptado por Ather tras sus pruebas físicas. La descarga de esta APK permanece bloqueada hasta completar los permisos y avisos de terceros. No hay enlace público de Eco82 disponible en esta entrega.
+[Descargar APK / Download APK](https://github.com/AtherXyz/AtherMods-Community/releases/download/v0.13.4-alpha82-eco1/AtherMods_0.13.4-alpha82-eco1.apk)
 
-**EN:** Accepted by Ather following physical testing. Download of this APK remains withheld until third-party permissions and notices are complete. No public Eco82 APK link is available in this delivery.
+1290454 bytes · SHA-256 `13212b2c9db8c3aac025e2f51e84181fd71a2ede4cc26125fdff25928c7184bd`
+
+**ES:** Estado aceptado por Ather tras sus pruebas físicas. La descarga pública individual de esta APK está disponible. Se ha comprobado tamaño y SHA-256 mediante descarga sin autenticación.
+
+**EN:** Accepted by Ather following physical testing. The individual public APK download is available. Size and SHA-256 have been checked through an anonymous download.
 
 | Función / Feature | Descripción / Description |
 | --- | --- |

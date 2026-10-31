@@ -17,9 +17,11 @@
 
 ## Ather Mods App
 
-**ES:** La APK objetivo es **0.13.4-alpha82-eco1**, 1290454 bytes. Su distribución permanece pendiente de permisos y avisos; no hay enlace de Eco82 en esta entrega de mods. Las versiones anteriores no se presentan como Eco82.
+**ES:** La APK objetivo es **0.13.4-alpha82-eco1**, 1290454 bytes. Descarga pública individual disponible. Se comprobó el archivo descargado sin autenticación; tamaño y SHA-256 coinciden con la entrega registrada. Las versiones anteriores no se presentan como Eco82.
 
-**EN:** The target APK is **0.13.4-alpha82-eco1**, 1290454 bytes. Distribution remains pending permissions and notices; this mod delivery has no Eco82 download link. Older versions are not presented as Eco82.
+**EN:** The target APK is **0.13.4-alpha82-eco1**, 1290454 bytes. An individual public download is available. The file was downloaded without authentication; its size and SHA-256 match the recorded delivery. Older versions are not presented as Eco82.
+
+[Descargar APK / Download APK](https://github.com/AtherXyz/AtherMods-Community/releases/download/v0.13.4-alpha82-eco1/AtherMods_0.13.4-alpha82-eco1.apk)
 
 SHA-256: `13212b2c9db8c3aac025e2f51e84181fd71a2ede4cc26125fdff25928c7184bd`
 

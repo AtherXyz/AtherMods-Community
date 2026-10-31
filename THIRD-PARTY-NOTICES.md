@@ -42,8 +42,36 @@ SOFTWARE.
 
 ## Otros componentes y estado de derechos / Other components and rights status
 
-**ES:** Eco82 permanece bloqueada hasta completar permisos y avisos de terceros. Se utiliza Shizuku como requisito externo; [Shizuku-API](https://github.com/RikkaApps/Shizuku-API/blob/master/LICENSE) tiene licencia MIT. Este aviso no acredita por sí solo el cumplimiento del paquete completo. Los 30 ZIP de Ather Modpack se ofrecen individualmente. Se conservan los enlaces históricos de Jeff por separado. La evidencia de permisos de terceros sigue sin completarse para algunos paquetes; no se declara acreditada por su publicación. La presencia de una licencia de una dependencia no acredita todo el mod que la contiene. No se ha relicenciado ningún archivo.
+**ES:** La APK Eco82 se publica como archivo individual. La evidencia de permisos de algunos componentes de terceros permanece incompleta; su publicación no constituye una licencia nueva. Se utiliza Shizuku como requisito externo; [Shizuku-API](https://github.com/RikkaApps/Shizuku-API/blob/master/LICENSE) tiene licencia MIT. Este aviso no acredita por sí solo el cumplimiento del paquete completo. Los 30 ZIP de Ather Modpack se ofrecen individualmente. Se conservan los enlaces históricos de Jeff por separado. La evidencia de permisos de terceros sigue sin completarse para algunos paquetes; no se declara acreditada por su publicación. La presencia de una licencia de una dependencia no acredita todo el mod que la contiene. No se ha relicenciado ningún archivo.
 
-**EN:** Eco82 remains withheld until third-party permissions and notices are complete. Shizuku is an external requirement; [Shizuku-API](https://github.com/RikkaApps/Shizuku-API/blob/master/LICENSE) is MIT-licensed. This notice alone does not establish compliance of the complete package. All 30 Ather Modpack ZIPs are offered individually. Historical Jeff links are retained separately. Third-party permission evidence remains incomplete for some packages; publication does not establish those rights. A dependency's license does not establish rights for an entire mod containing it. No file has been relicensed.
+**EN:** The Eco82 APK is published as an individual file. Permission evidence for some third-party components remains incomplete; publication does not constitute a new license. Shizuku is an external requirement; [Shizuku-API](https://github.com/RikkaApps/Shizuku-API/blob/master/LICENSE) is MIT-licensed. This notice alone does not establish compliance of the complete package. All 30 Ather Modpack ZIPs are offered individually. Historical Jeff links are retained separately. Third-party permission evidence remains incomplete for some packages; publication does not establish those rights. A dependency's license does not establish rights for an entire mod containing it. No file has been relicensed.
 
 ES: Ather Slots, Ather Perspective y AtherKeybinds figuran como creaciones de Ather/Dario en sus metadatos; se conserva la autoría de dependencias y recursos de terceros donde conste. No se concede una licencia abierta nueva. EN: Ather Slots, Ather Perspective and AtherKeybinds are credited to Ather/Dario in their metadata; third-party dependency and asset credits are retained where recorded. No new open-source license is granted.
+
+## Shizuku-API — MIT
+
+ES: Se conserva a continuación el aviso MIT de Shizuku-API. EN: The Shizuku-API MIT notice is preserved below.
+
+```text
+MIT License
+
+Copyright (c) 2021 RikkaW
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+```
