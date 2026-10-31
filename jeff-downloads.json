@@ -1,0 +1,168 @@
+{
+  "scope": "Existing historical alpha39 downloads / Descargas históricas alpha39 existentes",
+  "catalog": "Jeff Modlist",
+  "new_uploads": false,
+  "gameplay_retested": false,
+  "entries": [
+    {
+      "name": "Functional Medal",
+      "version": "1.6.7.1",
+      "author": "恒子、|白日(画师)|BCI(动画)",
+      "filename": "Functional-Medal-1.6.7.1.zip",
+      "bytes": 33039697,
+      "sha256": "1300d6b93e08a9ff243fde8dce0b534cdace699b290292c02a4ea71f151e8ed6",
+      "url": "https://github.com/AtherXyz/AtherMods-Community/releases/download/v0.10.1-alpha39/Functional-Medal-1.6.7.1.zip",
+      "role": "servidor/compartido"
+    },
+    {
+      "name": "Boss Indicator",
+      "version": "1.0",
+      "author": "Ryuu",
+      "filename": "boss-indicator.zip",
+      "bytes": 148455,
+      "sha256": "2652cf1b1fc83ede0d51fb02c7e169851df41befec7921a79307363e6d409e0b",
+      "url": "https://github.com/AtherXyz/AtherMods-Community/releases/download/v0.10.1-alpha39/boss-indicator.zip",
+      "role": "cliente"
+    },
+    {
+      "name": "Auto Actions",
+      "version": "1.1.2-mobile-perf1",
+      "author": "Jespercal",
+      "filename": "auto-actions.zip",
+      "bytes": 33232,
+      "sha256": "3211bfd35c5aaa27af70f4ff8851779dde259069d5da5acf462b9fd4d6bb48bd",
+      "url": "https://github.com/AtherXyz/AtherMods-Community/releases/download/v0.10.1-alpha39/auto-actions.zip",
+      "role": "cliente"
+    },
+    {
+      "name": "Enhanced Touch Interaction",
+      "version": "2.0.0",
+      "author": "吹雪荡漾",
+      "filename": "enhanced-touch-interaction.zip",
+      "bytes": 45461,
+      "sha256": "51ab05bade2aef145f68d5d5688af7db791f428123b0ca05e9c39f269d014d92",
+      "url": "https://github.com/AtherXyz/AtherMods-Community/releases/download/v0.10.1-alpha39/enhanced-touch-interaction.zip",
+      "role": "cliente"
+    },
+    {
+      "name": "Auto Walking",
+      "version": "3.8.2",
+      "author": "川小胖 & Fengying(original author)",
+      "filename": "auto-walking.zip",
+      "bytes": 134106,
+      "sha256": "77088afdc5e7a2b5961e637b107cb7c9cc63fcc9ab99e6e6d1cbd9242242a274",
+      "url": "https://github.com/AtherXyz/AtherMods-Community/releases/download/v0.10.1-alpha39/auto-walking.zip",
+      "role": "cliente"
+    },
+    {
+      "name": "Cave RAM Unlock",
+      "version": "1.0.0",
+      "author": "A I",
+      "filename": "cave-ram-unlock.zip",
+      "bytes": 1289,
+      "sha256": "79ca2f7b083dc690031737cb7d2f1ea7e8a34b89f7e53bef08aca31fa9a52cdf",
+      "url": "https://github.com/AtherXyz/AtherMods-Community/releases/download/v0.10.1-alpha39/cave-ram-unlock.zip",
+      "role": "cliente"
+    },
+    {
+      "name": "Combined Status",
+      "version": "1.9.2C-mobile-hud4",
+      "author": "rezecib, Kiopho, Soilworker, hotmatrixx, penguin0616",
+      "filename": "combined-status.zip",
+      "bytes": 187621,
+      "sha256": "7dc0b0940586ee6024c88140c3803e7bb4a6d7eeb90b167f8977b40d162c54c5",
+      "url": "https://github.com/AtherXyz/AtherMods-Community/releases/download/v0.10.1-alpha39/combined-status.zip",
+      "role": "cliente"
+    },
+    {
+      "name": "Quick Sort",
+      "version": "1.0.4",
+      "author": "Beidao Hanxin",
+      "filename": "quick-sort.zip",
+      "bytes": 23094,
+      "sha256": "e03bb0a24d0ede110b4e10a10c4aa73b04cc41cba493c47b6a5f3dfb023ebf01",
+      "url": "https://github.com/AtherXyz/AtherMods-Community/releases/download/v0.10.1-alpha39/quick-sort.zip",
+      "role": "cliente"
+    },
+    {
+      "name": "Attack Range Display",
+      "version": "1.5",
+      "author": "ClumsyNoob",
+      "filename": "attack-range-display.zip",
+      "bytes": 70634,
+      "sha256": "897e6cf270f89a6016dcbc90f765e93b7a2ae31ce6a2373ee1cdb7b067008eb5",
+      "url": "https://github.com/AtherXyz/AtherMods-Community/releases/download/v0.10.1-alpha39/attack-range-display.zip",
+      "role": "servidor/compartido"
+    },
+    {
+      "name": "Auto Stack & Pickup",
+      "version": "0.3.1-mobile23-ground-sweep",
+      "author": "Ultroman / Android adaptation by Yucheng",
+      "filename": "auto-stack-pickup.zip",
+      "bytes": 24130,
+      "sha256": "55fb47ba0a45a3875aa2c159505fbe58e715f9e42542d74bfcb9336a4fd90c2a",
+      "url": "https://github.com/AtherXyz/AtherMods-Community/releases/download/v0.10.1-alpha39/auto-stack-pickup.zip",
+      "role": "servidor/compartido"
+    },
+    {
+      "name": "Craft From Nearby Chests",
+      "version": "1.2.8-mobile1",
+      "author": "Generated with Claude Code",
+      "filename": "craft-from-chests.zip",
+      "bytes": 14240,
+      "sha256": "4d9d2575096ae88e1ec245842933f2752c8481372eaf57d829179c51df3f412a",
+      "url": "https://github.com/AtherXyz/AtherMods-Community/releases/download/v0.10.1-alpha39/craft-from-chests.zip",
+      "role": "servidor/compartido"
+    },
+    {
+      "name": "Damage Display",
+      "version": "1.06",
+      "author": "一颗阳桃树",
+      "filename": "damage-display.zip",
+      "bytes": 8977,
+      "sha256": "4acc397a1777941559e82e79408a3aebc1490aab85d35c6a112e8add977e8eb2",
+      "url": "https://github.com/AtherXyz/AtherMods-Community/releases/download/v0.10.1-alpha39/damage-display.zip",
+      "role": "servidor/compartido"
+    },
+    {
+      "name": "Epic Healthbar",
+      "version": "102",
+      "author": "Tykvesh",
+      "filename": "epic-healthbar.zip",
+      "bytes": 1756885,
+      "sha256": "626a9bcefbaca488978dde201b57bb328259ca6be7f5c4a3dd6ff2fdc73c0b1e",
+      "url": "https://github.com/AtherXyz/AtherMods-Community/releases/download/v0.10.1-alpha39/epic-healthbar.zip",
+      "role": "servidor/compartido"
+    },
+    {
+      "name": "Simple Health Bar",
+      "version": "0.5.29-mobile3",
+      "author": "DYC / Reforged maintainer; mobile compatibility port",
+      "filename": "simple-health-bar.zip",
+      "bytes": 197612,
+      "sha256": "50bd1d956980a84b3177e201456d6ae38aa71ae0b2fabf786daef89a4559abfd",
+      "url": "https://github.com/AtherXyz/AtherMods-Community/releases/download/v0.10.1-alpha39/simple-health-bar.zip",
+      "role": "servidor/compartido"
+    },
+    {
+      "name": "Smart Minisign",
+      "version": "1.1.8",
+      "author": "Xiaobanhua mamjun1",
+      "filename": "smart-minisign.zip",
+      "bytes": 7924,
+      "sha256": "454bc58b06a53c06dae9141b1c84d9bb086e912c27ebce87ff568eeaacfbccc7",
+      "url": "https://github.com/AtherXyz/AtherMods-Community/releases/download/v0.10.1-alpha39/smart-minisign.zip",
+      "role": "servidor/compartido"
+    },
+    {
+      "name": "Targeting Optimisation",
+      "version": "1.0.0",
+      "author": "DST mobile port",
+      "filename": "targeting-optimisation.zip",
+      "bytes": 3179,
+      "sha256": "29682bdbf3de1329cf3eaf560f318521d2197c50241dc4eacb062eef9018e79b",
+      "url": "https://github.com/AtherXyz/AtherMods-Community/releases/download/v0.10.1-alpha39/targeting-optimisation.zip",
+      "role": "servidor/compartido"
+    }
+  ]
+}

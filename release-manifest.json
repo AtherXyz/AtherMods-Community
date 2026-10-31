@@ -6,7 +6,7 @@
     "en"
   ],
   "product_status": "STABLE_BETA_ATHER_REPORTED_PHYSICAL_ACCEPTANCE",
-  "distribution_status": "PARTIAL_PREPARATION_PUBLIC_LINKS_PENDING",
+  "distribution_status": "PARTIAL_TWO_ZIPS_PUBLIC",
   "complete_pack_available": false,
   "game": {
     "publisher": "Playdigious",
@@ -165,8 +165,8 @@
       "filename": "workshop-1769805475-mobile-r18.zip",
       "bytes": 37536,
       "sha256": "2131192fa70e7021fab95f130846a62c1df2b917dcb34eee8381f310b828ad36",
-      "distribution_status": "AUTHORIZED_LINK_PENDING",
-      "download_url": null
+      "distribution_status": "PUBLIC_DOWNLOAD_VERIFIED",
+      "download_url": "https://github.com/AtherXyz/AtherMods-Community/releases/download/ather-modpack-two-mods-20261030-r1/workshop-1769805475-mobile-r18.zip"
     },
     {
       "name": "Beefalo Status Bar",
@@ -381,13 +381,18 @@
       "filename": "Ather-Combo-Counter-Attack-0.1.0-alpha6-client.zip",
       "bytes": 5503,
       "sha256": "9d6b724a028565efd133ba0e00a9dc97ed83b9abf7d19296fa1566147cd7a5c9",
-      "distribution_status": "AUTHORIZED_LINK_PENDING",
-      "download_url": null
+      "distribution_status": "PUBLIC_DOWNLOAD_VERIFIED",
+      "download_url": "https://github.com/AtherXyz/AtherMods-Community/releases/download/ather-modpack-two-mods-20261030-r1/Ather-Combo-Counter-Attack-0.1.0-alpha6-client.zip"
     }
   ],
   "jeff_modlist": {
     "scope": "Historical alpha39 catalog; separate from Ather Modpack",
     "entries": 16,
-    "new_downloads_available": false
-  }
+    "new_downloads_available": false,
+    "existing_historical_downloads": 16,
+    "catalog_url": "https://github.com/AtherXyz/AtherMods-Community/blob/main/JEFF-MODLIST.md",
+    "inventory": "jeff-downloads.json",
+    "new_uploads": false
+  },
+  "release_url": "https://github.com/AtherXyz/AtherMods-Community/releases/tag/ather-modpack-two-mods-20261030-r1"
 }

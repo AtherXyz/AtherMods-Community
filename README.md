@@ -15,9 +15,9 @@
 | [Cambios / Changes](CHANGELOG.md) | Cambios de esta entrega / Delivery changes |
 | [Créditos y licencias / Credits and licenses](THIRD-PARTY-NOTICES.md) | Autoría y derechos / Authorship and rights |
 
-**ES — Disponibilidad:** el catálogo de 30 mods no es un pack completo descargable. Dos ZIP tienen distribución autorizada; sus enlaces públicos están pendientes de habilitación. La APK y los otros 28 ZIP siguen bloqueados por permisos o avisos de distribución pendientes. La aceptación de la beta no elimina esos bloqueos.
+**ES — Disponibilidad:** el catálogo de 30 mods no es un pack completo descargable. Dos ZIP están disponibles con descarga pública individual desde GitHub. La APK y los otros 28 ZIP siguen bloqueados por permisos o avisos de distribución pendientes. La aceptación de la beta no elimina esos bloqueos.
 
-**EN — Availability:** the 30-mod catalog is not a complete downloadable pack. Two ZIPs are authorized for distribution; public links are awaiting activation. The APK and the other 28 ZIPs remain withheld pending distribution permissions or required notices. Beta acceptance does not remove those restrictions.
+**EN — Availability:** the 30-mod catalog is not a complete downloadable pack. Two ZIPs are available as individual public downloads from GitHub. The APK and the other 28 ZIPs remain withheld pending distribution permissions or required notices. Beta acceptance does not remove those restrictions.
 
 **ES:** Entorno probado: juego original de Playdigious en Android **2.3.1, código 100**. No se afirma compatibilidad con versiones posteriores de Google Play. Se necesita una copia legal del juego; este repositorio no distribuye el juego.
 
@@ -26,3 +26,11 @@
 [Informar un error / Report an issue](https://github.com/AtherXyz/AtherMods-Community/issues/new) · [Archivo alpha39 / alpha39 archive](https://github.com/AtherXyz/AtherMods-Community/releases/tag/v0.10.1-alpha39)
 
 **ES:** La release alpha39 conserva su historial y no representa la selección Eco82. **EN:** The alpha39 release retains its history and does not represent the Eco82 selection.
+
+## Descargas disponibles / Available downloads
+
+- [Beefalo Saddled No Poop 2.0.0](https://github.com/AtherXyz/AtherMods-Community/releases/download/ather-modpack-two-mods-20261030-r1/workshop-1769805475-mobile-r18.zip)
+- [Ather Combo Counter Attack 0.1.0-alpha6-client](https://github.com/AtherXyz/AtherMods-Community/releases/download/ather-modpack-two-mods-20261030-r1/Ather-Combo-Counter-Attack-0.1.0-alpha6-client.zip)
+- [Jeff Modlist: 16 descargas históricas individuales / 16 individual historical downloads](JEFF-MODLIST.md)
+
+ES: Los enlaces de Jeff conservan las versiones ya publicadas en alpha39; no son toda su colección privada. EN: Jeff links retain the versions already published in alpha39; they are not the whole private collection.

@@ -21,7 +21,7 @@
 | Snow Tile Disabler | 0.1.2 | Cliente / Client | CarlZalph | Adaptación Android Ather / Ather Android adaptation | Bloqueado / Withheld |
 | Auto Door | 3.0 | Servidor / Server | charlie | Adaptación Android Ather / Ather Android adaptation | Bloqueado / Withheld |
 | Auto Stack and Pick Up | 0.3.1-mobile23-ground-sweep | Servidor / Server | Ultroman / Android adaptation by Yucheng | Procedencia Jeff; autor original / Jeff distribution; original author | Bloqueado / Withheld |
-| Beefalo Saddled No Poop | 2.0.0 | Servidor / Server | liolok | Adaptación Android Ather / Ather Android adaptation | Autorizado; enlace pendiente / Authorized; link pending |
+| Beefalo Saddled No Poop | 2.0.0 | Servidor / Server | liolok | Adaptación Android Ather / Ather Android adaptation | [Descargar / Download](https://github.com/AtherXyz/AtherMods-Community/releases/download/ather-modpack-two-mods-20261030-r1/workshop-1769805475-mobile-r18.zip) |
 | Beefalo Status Bar | 1.4.0-mobile2 | Servidor / Server | MNK | Procedencia Jeff; autor original / Jeff distribution; original author | Bloqueado / Withheld |
 | [BETA]Rideable Grass Gator | 26.10.24 | Servidor / Server | ZGY & 翊Alonesaur & 鬼刀御流 | Adaptación Android Ather / Ather Android adaptation | Bloqueado / Withheld |
 | Better Beefalo - English | 2.82 | Servidor / Server | Dihran | Adaptación Android Ather / Ather Android adaptation | Bloqueado / Withheld |
@@ -39,7 +39,7 @@
 | Ather Perspective | 0.1.4-alpha10 | Cliente / Client | Ather | Original Ather / Ather original | Bloqueado / Withheld |
 | UI Drag Zoom | 1.0.24-ather-editfix1 | Cliente / Client | 繁花丶海棠 | Adaptación Android Ather / Ather Android adaptation | Bloqueado / Withheld |
 | AtherKeybinds | 0.2.0-alpha4 | Cliente / Client | Ather | Original Ather / Ather original | Bloqueado / Withheld |
-| Ather Combo Counter Attack | 0.1.0-alpha6-client | Cliente / Client | Ather | Original Ather / Ather original | Autorizado; enlace pendiente / Authorized; link pending |
+| Ather Combo Counter Attack | 0.1.0-alpha6-client | Cliente / Client | Ather | Original Ather / Ather original | [Descargar / Download](https://github.com/AtherXyz/AtherMods-Community/releases/download/ather-modpack-two-mods-20261030-r1/Ather-Combo-Counter-Attack-0.1.0-alpha6-client.zip) |
 
 **ES:** “Bloqueado” se refiere a derechos o avisos pendientes; no significa fallo funcional. No se ha relicenciado ningún mod ni se publica un pack completo. **EN:** “Withheld” refers to pending rights or notices, not a functional failure. No mod has been relicensed and no complete pack is published.
 
