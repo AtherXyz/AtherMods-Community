@@ -7,7 +7,7 @@
 ## Mods propios Ather / Ather original mods
 
 - [Ather Slots 0.4.0-alpha9-QA](https://github.com/AtherXyz/AtherMods-Community/releases/download/ather-modpack-30mods-20261031-r1/Ather-Slots-0.4.0-alpha9-QA.zip)
-- [Ather Perspective 0.1.4-alpha10](https://github.com/AtherXyz/AtherMods-Community/releases/download/ather-modpack-30mods-20261031-r1/Ather-Perspective-0.1.4-alpha10.zip)
+- [Ather Perspective 0.1.4-alpha14](https://github.com/AtherXyz/AtherMods-Community/releases/download/ather-perspective-v0.1.4-alpha14/Ather-Perspective-0.1.4-alpha14.zip)
 - [AtherKeybinds 0.2.0-alpha4](https://github.com/AtherXyz/AtherMods-Community/releases/download/ather-modpack-30mods-20261031-r1/AtherKeybinds-0.2.0-alpha4.zip)
 - [Ather Combo Counter Attack 0.1.0-alpha6-client](https://github.com/AtherXyz/AtherMods-Community/releases/download/ather-modpack-30mods-20261031-r1/Ather-Combo-Counter-Attack-0.1.0-alpha6-client.zip)
 
@@ -41,7 +41,7 @@
 | Smart Minisign | 1.1.8 | Servidor / Server | Xiaobanhua mamjun1 | [Descargar / Download](https://github.com/AtherXyz/AtherMods-Community/releases/download/ather-modpack-30mods-20261031-r1/workshop-1595631294-mobile-r34.zip) |
 | Special Saddles | 2.2.0 | Servidor / Server | howieshen and pinkmollies and ryuu | [Descargar / Download](https://github.com/AtherXyz/AtherMods-Community/releases/download/ather-modpack-30mods-20261031-r1/workshop-2805330515-mobile-r18.zip) |
 | Ather Slots | 0.4.0-alpha9-QA | Cliente / Client | Dario | [Descargar / Download](https://github.com/AtherXyz/AtherMods-Community/releases/download/ather-modpack-30mods-20261031-r1/Ather-Slots-0.4.0-alpha9-QA.zip) |
-| Ather Perspective | 0.1.4-alpha10 | Cliente / Client | Ather | [Descargar / Download](https://github.com/AtherXyz/AtherMods-Community/releases/download/ather-modpack-30mods-20261031-r1/Ather-Perspective-0.1.4-alpha10.zip) |
+| Ather Perspective | 0.1.4-alpha14 | Cliente / Client | Ather | [Descargar / Download](https://github.com/AtherXyz/AtherMods-Community/releases/download/ather-perspective-v0.1.4-alpha14/Ather-Perspective-0.1.4-alpha14.zip) |
 | UI Drag Zoom | 1.0.24-ather-editfix1 | Cliente / Client | 繁花丶海棠 | [Descargar / Download](https://github.com/AtherXyz/AtherMods-Community/releases/download/ather-modpack-30mods-20261031-r1/UI-Drag-Zoom-1.0.24-Ather-editfix1.zip) |
 | AtherKeybinds | 0.2.0-alpha4 | Cliente / Client | Ather | [Descargar / Download](https://github.com/AtherXyz/AtherMods-Community/releases/download/ather-modpack-30mods-20261031-r1/AtherKeybinds-0.2.0-alpha4.zip) |
 | Ather Combo Counter Attack | 0.1.0-alpha6-client | Cliente / Client | Ather | [Descargar / Download](https://github.com/AtherXyz/AtherMods-Community/releases/download/ather-modpack-30mods-20261031-r1/Ather-Combo-Counter-Attack-0.1.0-alpha6-client.zip) |
@@ -55,3 +55,7 @@
 **EN — Licenses:** retain the notices included in each ZIP. File availability does not replace rights evidence or grant a new license. [Notices and license status](THIRD-PARTY-NOTICES.md).
 
 [Todos los ZIP / All ZIPs](https://github.com/AtherXyz/AtherMods-Community/releases/tag/ather-modpack-30mods-20261031-r1) · [Tamaños y SHA-256 / Sizes and SHA-256](release-manifest.json) · [Instalación / Installation](INSTALL.md)
+
+**ES — Actualización Perspective:** alfa14 sustituye alfa10 en esta selección. Tiene validación nativa acotada en emulador (solo Perspective, DST2.3.1/100, gestoralpha80); validación física y convivencia con los otros29mods pendientes. No se atribuyen a alfa14 las pruebas físicas del pack anterior. Importa alfa14 y desactiva las versiones anteriores de Perspective.
+
+**EN — Perspective update:** alpha14 replaces alpha10 in this selection. It has bounded native emulator validation (Perspective alone, DST2.3.1/100, manageralpha80); physical validation and coexistence with the other29mods remain pending. The previous pack's physical tests are not attributed to alpha14. Import alpha14 and disable older Perspective versions.

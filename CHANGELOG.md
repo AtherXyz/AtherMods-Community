@@ -1,5 +1,11 @@
 # Cambios / Changelog
 
+## 2026-10-31 — Perspective 0.1.4-alpha14
+
+ES: Se actualiza el enlace de Perspective a alfa14, conservando alfa10 en la release histórica. Halloween Night utiliza las nubes vainilla al atardecer sin recortar adicionalmente el alcance. Se conservan el ojo editable y los controles de seguimiento. Validación nativa previa acotada en emulador; física y convivencia con todo el pack pendientes. Esta publicación no ejecuta pruebas del juego.
+
+EN: Perspective now links to alpha14, with alpha10 retained in the historical release. Halloween Night uses vanilla clouds at dusk without an additional reduction in reach. Editable eye and tracking controls are retained. Prior bounded native emulator validation; physical and full-pack coexistence tests pending. Publication runs no gameplay tests.
+
 ## 2026-10-31 — APK Eco82 pública / Public Eco82 APK
 
 ES: Se publica la APK exacta 0.13.4-alpha82-eco1, sin recompilar ni modificar sus bytes. Se añade la descarga al README, página de la app, guía y manifiesto. Se verifica descarga anónima, tamaño y SHA-256. Se conservan alpha39 y las releases de mods. No se ejecutan nuevas pruebas del juego.

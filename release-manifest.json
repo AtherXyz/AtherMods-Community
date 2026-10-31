@@ -366,16 +366,26 @@
     },
     {
       "name": "Ather Perspective",
-      "version": "0.1.4-alpha10",
+      "version": "0.1.4-alpha14",
       "role": "client",
       "author": "Ather",
       "provenance": "Original Ather / Ather original",
-      "filename": "Ather-Perspective-0.1.4-alpha10.zip",
-      "bytes": 9081953,
-      "sha256": "1de8420cb1f8cd70d94faa98cb50e72f94ca21da8a467866cd0b044444f3a980",
-      "distribution_status": "PUBLIC_DOWNLOAD_AVAILABLE",
-      "download_url": "https://github.com/AtherXyz/AtherMods-Community/releases/download/ather-modpack-30mods-20261031-r1/Ather-Perspective-0.1.4-alpha10.zip",
-      "rights_evidence": "OWNER_AUTHORIZATION_RECORDED_ASSET_REVIEW_PENDING"
+      "filename": "Ather-Perspective-0.1.4-alpha14.zip",
+      "bytes": 9141686,
+      "sha256": "e4b2a67db2495dc626503c8c6829ef8daa11f10afa7b4ac34149d949c8bc083e",
+      "distribution_status": "PUBLIC_DOWNLOAD_VERIFIED",
+      "download_url": "https://github.com/AtherXyz/AtherMods-Community/releases/download/ather-perspective-v0.1.4-alpha14/Ather-Perspective-0.1.4-alpha14.zip",
+      "rights_evidence": "OWNER_AUTHORIZATION_RECORDED_ASSET_REVIEW_PENDING",
+      "release_url": "https://github.com/AtherXyz/AtherMods-Community/releases/tag/ather-perspective-v0.1.4-alpha14",
+      "validation": {
+        "historical_native": "BOUNDED_NATIVE_EMULATOR_OBSERVATION",
+        "game": "Playdigious Android 2.3.1 (100)",
+        "manager": "0.13.2-alpha80",
+        "scenario": "Perspective alone, local surface world, six phase/perspective/effect states",
+        "physical": "PENDING",
+        "full_pack_coexistence": "PENDING",
+        "new_tests_for_publication": false
+      }
     },
     {
       "name": "UI Drag Zoom",
@@ -426,7 +436,16 @@
     "inventory": "jeff-downloads.json",
     "new_uploads": false
   },
-  "release_url": "https://github.com/AtherXyz/AtherMods-Community/releases/tag/ather-modpack-30mods-20261031-r1",
   "complete_pack_scope": "30 individual mod ZIPs; APK excluded / 30 ZIP de mods individuales; APK excluida",
-  "rights_notice": "Availability does not establish third-party rights or grant a new license / La disponibilidad no acredita derechos de terceros ni concede una licencia nueva"
+  "rights_notice": "Availability does not establish third-party rights or grant a new license / La disponibilidad no acredita derechos de terceros ni concede una licencia nueva",
+  "baseline_release_url": "https://github.com/AtherXyz/AtherMods-Community/releases/tag/ather-modpack-30mods-20261031-r1",
+  "catalog_url": "https://github.com/AtherXyz/AtherMods-Community/blob/main/ATHER-MODPACK.md",
+  "component_updates": [
+    {
+      "component": "Ather Perspective",
+      "version": "0.1.4-alpha14",
+      "release_url": "https://github.com/AtherXyz/AtherMods-Community/releases/tag/ather-perspective-v0.1.4-alpha14"
+    }
+  ],
+  "validation_notice": "Initial pack physical acceptance does not cover Perspective alpha14 / La aceptación física del pack inicial no cubre Perspective alfa14"
 }
