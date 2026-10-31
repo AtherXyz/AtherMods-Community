@@ -1,32 +1,26 @@
-# Probar Ather Mods
+# Buscamos testers / Testers wanted
 
-## Preparación
+**ATHER MODS — STABLE BETA / BETA ESTABLE**
 
-1. Instala el juego original de Google Play 2.3.1 (100) y ábrelo normalmente. Completa su verificación de cuenta.
-2. Instala la APK enlazada en el README. Si actualizas Ather Mods, hazlo sobre la instalación existente para conservar la biblioteca.
-3. Inicia [Shizuku](https://shizuku.rikka.app/) y autoriza Ather Mods.
-4. Permite que Ather Mods siga ejecutándose en segundo plano. En Nubia, cambia su opción de batería de Automático a Permitir.
-5. Descarga los ZIP que quieras probar desde [Mods](MODS.md) e impórtalos con **Importar ZIP**. Conserva el ZIP sin descomprimir.
+**ES:** Ather ha probado físicamente la aplicación y su selección de mods y comunica funcionamiento satisfactorio. Buscamos ampliar la validación en otros dispositivos y versiones de Android. La versión objetivo es 0.13.4-alpha82-eco1; la distribución pública sigue limitada según [Descargas](DOWNLOADS.md). No prometemos compatibilidad universal ni con versiones posteriores del juego a Playdigious 2.3.1 (100).
 
-## Primera partida
+**EN:** Ather has physically tested the application and the selected mods and reports satisfactory operation. We want to extend validation to other devices and Android versions. The target is 0.13.4-alpha82-eco1; public distribution remains limited as described in [Downloads](DOWNLOADS.md). We do not promise universal compatibility or compatibility with game versions later than Playdigious 2.3.1 (100).
 
-1. Guarda y sal de cualquier partida abierta antes de iniciar la sesión desde el gestor.
-2. Pulsa **Abrir juego con mods** y confirma que ya has guardado y salido. El gestor reinicia el juego para preparar la sesión.
-3. En el menú del juego, pulsa **AM**, selecciona tus mods de cliente y guarda la selección.
-4. Para probar mods de servidor, importa la versión de Functional Medal de este catálogo. Es la base requerida por el pack de servidor actual.
-5. Crea un mundo nuevo de prueba, selecciona **Local Only** y abre **Mods** en sus ajustes. Activa y guarda el pack de servidor antes de generar el mundo.
-6. En esta alpha, los mods de servidor importados forman un pack: se activa completo o se deja desactivado. No se pueden alternar libremente todos por separado. Los mods de cliente se eligen desde AM.
-7. Entra en partida y comprueba el HUD, los controles y las funciones que uses. Deja Shizuku y Ather Mods activos.
+[Enviar informe / Submit a report](https://github.com/AtherXyz/AtherMods-Community/issues/new)
 
-Usa primero un mundo nuevo de prueba. Una partida que ya guardó contenido de un mod necesita conservar su perfil al volver a abrirse. La sesión del gestor dura hasta dos horas; la biblioteca y las selecciones se conservan entre sesiones.
+Incluye / Include:
 
-## Si algo falla
+- Modelo del dispositivo / Device model.
+- Versión de Android / Android version.
+- Versión y código del juego / Game version and version code.
+- Versión de Ather Mods / Ather Mods version.
+- Mods y versiones utilizados, distinguiendo cliente y servidor / Mods and versions used, distinguishing client and server.
+- Problema observado y resultado esperado / Observed problem and expected result.
+- Pasos para reproducirlo y frecuencia / Reproduction steps and frequency.
+- Captura o diagnóstico revisado, si lo tienes / Reviewed screenshot or diagnostics, if available.
 
-Vuelve al gestor y pulsa **Exportar registro de diagnóstico**. Abre un [reporte](https://github.com/AtherXyz/AtherMods-Community/issues/new?template=error.yml) con modelo del teléfono, versión de Android, versión del gestor, mods activos y pasos para reproducirlo. Revisa el TXT antes de adjuntarlo: el filtrado automático no sustituye esa revisión. Evita incluir datos de tu cuenta o partidas personales.
+**ES:** Retira datos personales, identificadores, cuentas y partidas privadas antes de publicar un registro. No compartas credenciales. También agradecemos informes de funcionamiento correcto con dispositivo, juego y selección exacta.
 
-- **AM no aparece o los clientes quedan esperando:** comprueba que Shizuku y Ather Mods siguen activos; revisa las restricciones de batería del teléfono.
-- **E_INVALID_TOKEN:** el servidor rechazó la sesión de cuenta. Sal de forma normal y vuelve a abrir el juego para renovar su autenticación.
-- **Pending modded creation / identity recovery:** conserva esa partida y adjunta el diagnóstico. No borres sus archivos ni la cargues a la fuerza sin su perfil.
-- **Arranque recuperado o FAILED_RECOVERED:** exporta el diagnóstico. Es un resultado de recuperación, no una confirmación de carga de mods.
+**EN:** Remove personal data, identifiers, accounts and private saves before posting a log. Never share credentials. Successful-use reports are welcome too, with the device, game and exact mod selection.
 
-La prueba conjunta de 17 mods se hizo con alpha36 en S23 Ultra. Alpha39 incorpora ajustes del arranque del Z60; aún no hemos repetido ese pack completo en ambos teléfonos con alpha39.
+[Instalación / Installation](INSTALL.md) · [Catálogo Ather / Ather catalog](ATHER-MODPACK.md) · [Jeff independiente / Separate Jeff catalog](JEFF-MODLIST.md)

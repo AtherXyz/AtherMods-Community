@@ -1,33 +1,28 @@
-# Ather Mods · DST Pocket para Android
+# ATHER MODS — STABLE BETA / BETA ESTABLE
 
-Un gestor para importar tus mods y elegirlos desde los menús nativos de **Don't Starve Together: Pocket Edition**, usando el juego original de Google Play.
+**ES:** Ather Mods para Don't Starve Together en Android. La versión objetivo es **0.13.4-alpha82-eco1**. Ather comunica pruebas físicas satisfactorias de la aplicación y su selección de 30 mods y acepta esta beta para uso. Buscamos testers en más dispositivos: esto no garantiza compatibilidad universal.
 
-Estamos buscando testers. La versión actual es **0.10.1-alpha39**: ya conseguimos entrar en partida con mods de cliente y servidor. Queremos comprobar cómo se comporta en más teléfonos.
+**EN:** Ather Mods for Don't Starve Together on Android. The target version is **0.13.4-alpha82-eco1**. Ather reports successful physical testing of the app and the selected 30 mods and accepts this beta for use. We need testers on more devices; universal compatibility is not guaranteed.
 
-## Descargas
+| Sección / Section | Contenido / Contents |
+| --- | --- |
+| [Ather Mods App](APP.md) | Aplicación y requisitos / App and requirements |
+| [Ather Modpack](ATHER-MODPACK.md) | Selección exacta de 30 mods / Exact 30-mod selection |
+| [Jeff Modlist](JEFF-MODLIST.md) | Catálogo histórico independiente / Separate historical catalog |
+| [Descargas / Downloads](DOWNLOADS.md) | Disponibilidad real y hashes / Actual availability and hashes |
+| [Instalación / Installation](INSTALL.md) | Guía paso a paso / Step-by-step guide |
+| [Testers](TESTERS.md) | Cómo informar errores / How to report issues |
+| [Cambios / Changes](CHANGELOG.md) | Cambios de esta entrega / Delivery changes |
+| [Créditos y licencias / Credits and licenses](THIRD-PARTY-NOTICES.md) | Autoría y derechos / Authorship and rights |
 
-- **[Descargar Ather Mods 0.10.1-alpha39 APK](https://github.com/AtherXyz/AtherMods-Community/releases/download/v0.10.1-alpha39/AtherMods-0.10.1-alpha39.apk)**
-- [Descargar mods individualmente](MODS.md)
-- [Versión, archivos y notas de entrega](https://github.com/AtherXyz/AtherMods-Community/releases/tag/v0.10.1-alpha39)
-- [Instalación y primera prueba](TESTERS.md)
-- [Progreso y límites actuales](PROGRESO.md)
-- [Reportar un error](https://github.com/AtherXyz/AtherMods-Community/issues/new?template=error.yml)
+**ES — Disponibilidad:** el catálogo de 30 mods no es un pack completo descargable. Dos ZIP tienen distribución autorizada; sus enlaces públicos están pendientes de habilitación. La APK y los otros 28 ZIP siguen bloqueados por permisos o avisos de distribución pendientes. La aceptación de la beta no elimina esos bloqueos.
 
-## Qué necesitamos para probar
+**EN — Availability:** the 30-mod catalog is not a complete downloadable pack. Two ZIPs are authorized for distribution; public links are awaiting activation. The APK and the other 28 ZIPs remain withheld pending distribution permissions or required notices. Beta acceptance does not remove those restrictions.
 
-El juego original **Google Play 2.3.1 (100)** (`com.playdigious.dst`), Shizuku activo y autorizado para Ather Mods, y tus ZIP de mods. La integración está preparada para esa versión concreta del juego. Las pruebas actuales son de Android 15 y 16; otros dispositivos y versiones siguen pendientes.
+**ES:** Entorno probado: juego original de Playdigious en Android **2.3.1, código 100**. No se afirma compatibilidad con versiones posteriores de Google Play. Se necesita una copia legal del juego; este repositorio no distribuye el juego.
 
-En Ather Mods importas los ZIP y pulsas **Abrir juego con mods**. Dentro del juego, **AM** abre el selector de mods de cliente. Los mods de servidor se eligen en **Mods**, desde los ajustes del mundo, antes de abrirlo.
+**EN:** Tested environment: the original Playdigious Android game **2.3.1, version code 100**. Compatibility with later Google Play versions is not claimed. A legal copy of the game is required; this repository does not distribute the game.
 
-## Lo que ya pasó
+[Informar un error / Report an issue](https://github.com/AtherXyz/AtherMods-Community/issues/new) · [Archivo alpha39 / alpha39 archive](https://github.com/AtherXyz/AtherMods-Community/releases/tag/v0.10.1-alpha39)
 
-- Z60 / NX721J, Android 15, alpha39: Perspective + Ather Slots + Functional Medal cargados en la misma partida.
-- S23 Ultra, Android 16, alpha36: entrada en un mundo con 17 mods, ocho de cliente y nueve de servidor.
-- Menús nativos, selecciones guardadas y carga sin escribir comandos.
-- Superficie y cuevas cargaron sus perfiles en las pruebas indicadas. El recorrido entre ambas sigue pendiente.
-
-**Esto confirma la entrada en partida.** Todavía estamos comprobando las funciones de cada mod, la estabilidad prolongada y el multijugador entre teléfonos. En Samsung hubo arranques intermitentes y Perspective conserva avisos de texturas. Consulta [los detalles](PROGRESO.md).
-
-En Nubia, configura **Ather Mods → Uso de batería → Optimización de la batería → Ejecución en segundo plano → Permitir**. Fue necesario para que el sistema mantuviera el gestor activo durante la carga.
-
-Este repositorio reúne las entregas, instrucciones y seguimiento para testers. El juego se obtiene por separado en [Google Play](https://play.google.com/store/apps/details?id=com.playdigious.dst). Ather Mods es un proyecto independiente de Klei y Playdigious. Los créditos de los mods se conservan en sus ZIP y en [el catálogo](MODS.md).
+**ES:** La release alpha39 conserva su historial y no representa la selección Eco82. **EN:** The alpha39 release retains its history and does not represent the Eco82 selection.
