@@ -1,27 +1,26 @@
 # Descargas / Downloads
 
-**ES:** Estado al 31 de octubre de 2026. No hay una descarga pública completa de los 30 mods. Los dos ZIP autorizados están disponibles públicamente en GitHub; sus descargas sin autenticación y SHA-256 han sido comprobados. No se ofrecen enlaces privados como si fueran descargas públicas.
+## Ather Modpack — 30 ZIP
 
-**EN:** Status on October 31, 2026. There is no complete public download of the 30 mods. The two authorized ZIPs are publicly available on GitHub; anonymous downloads and SHA-256 have been verified. Private links are not offered as public downloads.
+**ES:** Los 30 mods están disponibles como archivos individuales. El catálogo incluye sus nombres, versiones, créditos y enlaces. No hace falta acceso a Drive ni iniciar sesión para descargarlos.
 
-| Componente / Component | Versión / Version | Bytes | Estado / Status |
-| --- | --- | ---: | --- |
-| Ather Mods App | 0.13.4-alpha82-eco1 | 1290454 | Bloqueada: derechos y avisos pendientes / Withheld: rights and notices pending |
-| Beefalo Saddled No Poop | 2.0.0 | 37536 | [Descargar / Download](https://github.com/AtherXyz/AtherMods-Community/releases/download/ather-modpack-two-mods-20261030-r1/workshop-1769805475-mobile-r18.zip) |
-| Ather Combo Counter Attack | 0.1.0-alpha6-client | 5503 | [Descargar / Download](https://github.com/AtherXyz/AtherMods-Community/releases/download/ather-modpack-two-mods-20261030-r1/Ather-Combo-Counter-Attack-0.1.0-alpha6-client.zip) |
-| Otros 28 mods / Other 28 mods | [Versiones / Versions](ATHER-MODPACK.md) | — | Bloqueados por derechos o avisos pendientes / Withheld pending rights or notices |
-| Jeff Modlist | Catálogo histórico / Historical catalog | — | [16 enlaces históricos existentes / 16 existing historical links](JEFF-MODLIST.md) |
+**EN:** All 30 mods are available as individual files. The catalog lists names, versions, credits and links. Drive access or signing in is not required to download them.
 
-**ES:** Los hashes identifican archivos, no acreditan permisos de descarga ni seguridad absoluta. **EN:** Hashes identify files; they do not establish download rights or absolute safety.
+- [Catálogo y descargas individuales / Catalog and individual downloads](ATHER-MODPACK.md)
+- [Release con los 30 ZIP / Release with all 30 ZIPs](https://github.com/AtherXyz/AtherMods-Community/releases/tag/ather-modpack-30mods-20261031-r1)
+- [Manifiesto: versiones, tamaños y SHA-256 / Manifest: versions, sizes and SHA-256](release-manifest.json)
+- [SHA256SUMS.txt](SHA256SUMS.txt)
 
-- APK: `13212b2c9db8c3aac025e2f51e84181fd71a2ede4cc26125fdff25928c7184bd`
-- Beefalo ZIP: `2131192fa70e7021fab95f130846a62c1df2b917dcb34eee8381f310b828ad36`
-- Combo ZIP: `9d6b724a028565efd133ba0e00a9dc97ed83b9abf7d19296fa1566147cd7a5c9`
+## Jeff Modlist
 
-[Manifiesto / Manifest](release-manifest.json) · [SHA256SUMS](SHA256SUMS.txt) · [Licencias / Licenses](THIRD-PARTY-NOTICES.md)
+[16 descargas históricas individuales / 16 individual historical downloads](JEFF-MODLIST.md). ES: Catálogo separado, con versiones de alpha39 y créditos originales. EN: Separate catalog, with alpha39 versions and original credits.
 
-**ES:** Se conserva [alpha39](https://github.com/AtherXyz/AtherMods-Community/releases/tag/v0.10.1-alpha39) como archivo histórico; sus versiones no sustituyen Eco82. No se ha publicado una nueva release completa.
+## Ather Mods App
 
-**EN:** [alpha39](https://github.com/AtherXyz/AtherMods-Community/releases/tag/v0.10.1-alpha39) remains a historical archive; its versions do not substitute for Eco82. No new complete release has been published.
+**ES:** La APK objetivo es **0.13.4-alpha82-eco1**, 1290454 bytes. Su distribución permanece pendiente de permisos y avisos; no hay enlace de Eco82 en esta entrega de mods. Las versiones anteriores no se presentan como Eco82.
 
-ES: Las descargas se sirven desde GitHub. Las copias privadas de Drive no son necesarias para descargarlas. EN: Downloads are served by GitHub. Private Drive copies are not needed to download them.
+**EN:** The target APK is **0.13.4-alpha82-eco1**, 1290454 bytes. Distribution remains pending permissions and notices; this mod delivery has no Eco82 download link. Older versions are not presented as Eco82.
+
+SHA-256: `13212b2c9db8c3aac025e2f51e84181fd71a2ede4cc26125fdff25928c7184bd`
+
+**ES:** Los hashes identifican archivos; no sustituyen licencias ni garantizan compatibilidad. Las versiones históricas se conservan. **EN:** Hashes identify files; they do not replace licenses or guarantee compatibility. Historical versions are preserved.

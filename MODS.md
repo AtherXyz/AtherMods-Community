@@ -1,9 +1,7 @@
 # Catálogos de mods / Mod catalogs
 
-**ES:** La selección actual de Ather contiene 30 mods. Jeff Modlist se mantiene independiente. Los catálogos indican autoría, versión y disponibilidad; no hay una descarga pública completa del pack. El archivo histórico `mods.json` corresponde a alpha39, no a la selección actual.
+- [Ather Modpack: 30 mods con descarga individual / 30 mods with individual downloads](ATHER-MODPACK.md)
+- [Jeff Modlist: 16 descargas históricas separadas / 16 separate historical downloads](JEFF-MODLIST.md)
+- [Descargas y versiones / Downloads and versions](DOWNLOADS.md)
 
-**EN:** Ather's current selection contains 30 mods. Jeff Modlist remains separate. The catalogs identify authors, versions and availability; no complete public pack download exists. The historical `mods.json` file describes alpha39, not the current selection.
-
-- [Ather Modpack — 30 mods](ATHER-MODPACK.md)
-- [Jeff Modlist — catálogo histórico / historical catalog](JEFF-MODLIST.md)
-- [Descargas y estado / Downloads and status](DOWNLOADS.md)
+ES: El archivo histórico `mods.json` describe alpha39. El inventario actual está en `release-manifest.json`. EN: Historical `mods.json` describes alpha39. The current inventory is in `release-manifest.json`.
