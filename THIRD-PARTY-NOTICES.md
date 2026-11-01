@@ -75,3 +75,9 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 ```
+
+## Ather Combo Counter Attack 0.1.0-alpha7-client
+
+ES: Autor Ather. Actualización visual de la viñeta de nube. Ather solicita publicar este ZIP exacto. Se conserva alfa6 como archivo histórico; no se afirma que su validación cubra alfa7. No se concede una nueva licencia de código abierto ni se relicencian recursos de terceros.
+
+EN: Author Ather. Visual cloud-bubble update. Ather requests publication of this exact ZIP. Alpha6 remains a historical file; its validation is not claimed to cover alpha7. No new open-source license is granted and no third-party resources are relicensed.

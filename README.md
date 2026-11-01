@@ -5,6 +5,7 @@
 **EN:** All **30 mods in Ather Modpack** now have individual downloads. Ather reports successful physical testing of the app and this selection on his device. We need testers to extend validation; universal compatibility is not guaranteed.
 
 - [Descargar Ather Mods 0.13.4-alpha82-eco1 APK / Download APK](https://github.com/AtherXyz/AtherMods-Community/releases/download/v0.13.4-alpha82-eco1/AtherMods_0.13.4-alpha82-eco1.apk)
+- [Combo Counter 0.1.0-alpha7-client — alfa experimental / experimental alpha](https://github.com/AtherXyz/AtherMods-Community/releases/download/ather-combo-counter-v0.1.0-alpha7-client/Ather-Combo-Counter-Attack-0.1.0-alpha7-client.zip)
 - [Perspective 0.1.4-alpha14](https://github.com/AtherXyz/AtherMods-Community/releases/download/ather-perspective-v0.1.4-alpha14/Ather-Perspective-0.1.4-alpha14.zip)
 - [Catálogo Ather con enlaces individuales / Ather catalog with individual links](ATHER-MODPACK.md)
 - [Jeff Modlist: 16 descargas históricas, catálogo separado / 16 historical downloads, separate catalog](JEFF-MODLIST.md)
@@ -26,3 +27,7 @@
 **ES — Perspective actualizado:** el catálogo usa alfa14. Validación nativa acotada registrada; pruebas físicas y con todo el pack pendientes. La selección original con alfa10 se conserva en el archivo de releases.
 
 **EN — Perspective updated:** the catalog uses alpha14. Bounded native validation is recorded; physical and full-pack tests remain pending. The original alpha10 selection remains in the release archive.
+
+**ES — Combo alfa7:** actualización visual implementada; pruebas automáticas, nativas, visuales y físicas pendientes. La aceptación del pack original con alfa6 no se atribuye a esta nueva versión.
+
+**EN — Combo alpha7:** implemented visual update; automated, native, visual and physical tests remain pending. Acceptance of the original alpha6 pack is not attributed to this new version.

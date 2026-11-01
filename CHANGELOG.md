@@ -1,5 +1,11 @@
 # Cambios / Changelog
 
+## 2026-11-01 — Combo Counter 0.1.0-alpha7-client
+
+ES: Se actualiza Combo a alfa7 con viñeta de nube compacta y número centrado; se conserva la lógica de contador de alfa6. Se publica el ZIP exacto y se actualizan enlaces y SHA-256. Esta candidata no tiene pruebas automáticas, nativas, visuales ni físicas registradas. Alfa6 permanece disponible como retorno. No se ejecutan pruebas del juego durante la publicación.
+
+EN: Combo updates to alpha7 with a compact cloud bubble and centered number; alpha6 counter logic is retained. The exact ZIP is published and links and SHA-256 are updated. This candidate has no recorded automated, native, visual or physical tests. Alpha6 remains available for rollback. Publication runs no gameplay tests.
+
 ## 2026-10-31 — Perspective 0.1.4-alpha14
 
 ES: Se actualiza el enlace de Perspective a alfa14, conservando alfa10 en la release histórica. Halloween Night utiliza las nubes vainilla al atardecer sin recortar adicionalmente el alcance. Se conservan el ojo editable y los controles de seguimiento. Validación nativa previa acotada en emulador; física y convivencia con todo el pack pendientes. Esta publicación no ejecuta pruebas del juego.

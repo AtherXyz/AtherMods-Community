@@ -9,7 +9,7 @@
 - [Ather Slots 0.4.0-alpha9-QA](https://github.com/AtherXyz/AtherMods-Community/releases/download/ather-modpack-30mods-20261031-r1/Ather-Slots-0.4.0-alpha9-QA.zip)
 - [Ather Perspective 0.1.4-alpha14](https://github.com/AtherXyz/AtherMods-Community/releases/download/ather-perspective-v0.1.4-alpha14/Ather-Perspective-0.1.4-alpha14.zip)
 - [AtherKeybinds 0.2.0-alpha4](https://github.com/AtherXyz/AtherMods-Community/releases/download/ather-modpack-30mods-20261031-r1/AtherKeybinds-0.2.0-alpha4.zip)
-- [Ather Combo Counter Attack 0.1.0-alpha6-client](https://github.com/AtherXyz/AtherMods-Community/releases/download/ather-modpack-30mods-20261031-r1/Ather-Combo-Counter-Attack-0.1.0-alpha6-client.zip)
+- [Ather Combo Counter Attack 0.1.0-alpha7-client](https://github.com/AtherXyz/AtherMods-Community/releases/download/ather-combo-counter-v0.1.0-alpha7-client/Ather-Combo-Counter-Attack-0.1.0-alpha7-client.zip)
 
 ## Catálogo completo / Complete catalog
 
@@ -44,7 +44,7 @@
 | Ather Perspective | 0.1.4-alpha14 | Cliente / Client | Ather | [Descargar / Download](https://github.com/AtherXyz/AtherMods-Community/releases/download/ather-perspective-v0.1.4-alpha14/Ather-Perspective-0.1.4-alpha14.zip) |
 | UI Drag Zoom | 1.0.24-ather-editfix1 | Cliente / Client | 繁花丶海棠 | [Descargar / Download](https://github.com/AtherXyz/AtherMods-Community/releases/download/ather-modpack-30mods-20261031-r1/UI-Drag-Zoom-1.0.24-Ather-editfix1.zip) |
 | AtherKeybinds | 0.2.0-alpha4 | Cliente / Client | Ather | [Descargar / Download](https://github.com/AtherXyz/AtherMods-Community/releases/download/ather-modpack-30mods-20261031-r1/AtherKeybinds-0.2.0-alpha4.zip) |
-| Ather Combo Counter Attack | 0.1.0-alpha6-client | Cliente / Client | Ather | [Descargar / Download](https://github.com/AtherXyz/AtherMods-Community/releases/download/ather-modpack-30mods-20261031-r1/Ather-Combo-Counter-Attack-0.1.0-alpha6-client.zip) |
+| Ather Combo Counter Attack | 0.1.0-alpha7-client | Cliente / Client | Ather | [Descargar / Download](https://github.com/AtherXyz/AtherMods-Community/releases/download/ather-combo-counter-v0.1.0-alpha7-client/Ather-Combo-Counter-Attack-0.1.0-alpha7-client.zip) |
 
 **ES — Procedencia:** los mods propios de Ather se distinguen de las adaptaciones Android de obras de terceros. Auto Walking, Auto Stack and Pick Up, Beefalo Status Bar, Epic Healthbar y la base de Smart Minisign proceden de la distribución de Jeff; sus autores originales mantienen la autoría. Este catálogo permanece separado de [Jeff Modlist](JEFF-MODLIST.md).
 
@@ -59,3 +59,7 @@
 **ES — Actualización Perspective:** alfa14 sustituye alfa10 en esta selección. Tiene validación nativa acotada en emulador (solo Perspective, DST2.3.1/100, gestoralpha80); validación física y convivencia con los otros29mods pendientes. No se atribuyen a alfa14 las pruebas físicas del pack anterior. Importa alfa14 y desactiva las versiones anteriores de Perspective.
 
 **EN — Perspective update:** alpha14 replaces alpha10 in this selection. It has bounded native emulator validation (Perspective alone, DST2.3.1/100, manageralpha80); physical validation and coexistence with the other29mods remain pending. The previous pack's physical tests are not attributed to alpha14. Import alpha14 and disable older Perspective versions.
+
+**ES — Combo actualizado:** alfa7 añade una viñeta de nube compacta. Está implementada, sin pruebas automáticas, carga nativa ni validación visual/física registradas para este ZIP. La prueba física de alfa6 no cubre alfa7. Activa solo una versión y conserva alfa6 como retorno.
+
+**EN — Combo updated:** alpha7 adds a compact cloud bubble. It is implemented, with no recorded automated tests, native loading or visual/physical validation for this ZIP. Alpha6 physical testing does not cover alpha7. Enable only one version and retain alpha6 for rollback.

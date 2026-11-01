@@ -415,16 +415,26 @@
     },
     {
       "name": "Ather Combo Counter Attack",
-      "version": "0.1.0-alpha6-client",
+      "version": "0.1.0-alpha7-client",
       "role": "client",
       "author": "Ather",
       "provenance": "Original Ather / Ather original",
-      "filename": "Ather-Combo-Counter-Attack-0.1.0-alpha6-client.zip",
-      "bytes": 5503,
-      "sha256": "9d6b724a028565efd133ba0e00a9dc97ed83b9abf7d19296fa1566147cd7a5c9",
-      "distribution_status": "PUBLIC_DOWNLOAD_AVAILABLE",
-      "download_url": "https://github.com/AtherXyz/AtherMods-Community/releases/download/ather-modpack-30mods-20261031-r1/Ather-Combo-Counter-Attack-0.1.0-alpha6-client.zip",
-      "rights_evidence": "READY_FOR_FINAL_APPROVAL_OWN_SOURCE_ONLY"
+      "filename": "Ather-Combo-Counter-Attack-0.1.0-alpha7-client.zip",
+      "bytes": 60272,
+      "sha256": "3e2469ad2c9e7210db6b33eb7c2d0965fddba9d1b04ec8b4e82309a56d61c419",
+      "distribution_status": "PUBLIC_DOWNLOAD_VERIFIED",
+      "download_url": "https://github.com/AtherXyz/AtherMods-Community/releases/download/ather-combo-counter-v0.1.0-alpha7-client/Ather-Combo-Counter-Attack-0.1.0-alpha7-client.zip",
+      "rights_evidence": "READY_FOR_FINAL_APPROVAL_OWN_SOURCE_ONLY",
+      "release_url": "https://github.com/AtherXyz/AtherMods-Community/releases/tag/ather-combo-counter-v0.1.0-alpha7-client",
+      "validation": {
+        "implementation": "IMPLEMENTED",
+        "automated": "PENDING_NOT_RUN",
+        "native": "PENDING_NOT_RUN",
+        "visual": "PENDING_NATIVE",
+        "physical": "PENDING_ATHER",
+        "full_pack_coexistence": "PENDING",
+        "new_tests_for_publication": false
+      }
     }
   ],
   "jeff_modlist": {
@@ -445,7 +455,13 @@
       "component": "Ather Perspective",
       "version": "0.1.4-alpha14",
       "release_url": "https://github.com/AtherXyz/AtherMods-Community/releases/tag/ather-perspective-v0.1.4-alpha14"
+    },
+    {
+      "component": "Ather Combo Counter Attack",
+      "version": "0.1.0-alpha7-client",
+      "release_url": "https://github.com/AtherXyz/AtherMods-Community/releases/tag/ather-combo-counter-v0.1.0-alpha7-client"
     }
   ],
-  "validation_notice": "Initial pack physical acceptance does not cover Perspective alpha14 / La aceptación física del pack inicial no cubre Perspective alfa14"
+  "validation_notice": "Initial pack physical acceptance does not cover Perspective alpha14 or Combo alpha7 / La aceptación física del pack inicial no cubre Perspective alfa14 ni Combo alfa7",
+  "updated": "2026-11-01"
 }

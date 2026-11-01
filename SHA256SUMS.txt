@@ -28,4 +28,4 @@ acfa4eb471d4b2c47365efc681f82fae58d925a6a432cc8d0fe7fba889b89590  workshop-28053
 e4b2a67db2495dc626503c8c6829ef8daa11f10afa7b4ac34149d949c8bc083e  Ather-Perspective-0.1.4-alpha14.zip
 2e7b7f5087e6aea3318d81bae50cf6846c4b53b6e12a8a9c3dc657fef88493e9  UI-Drag-Zoom-1.0.24-Ather-editfix1.zip
 f69ff0dbacbfb6a15aeaf6f07781b9c4f5d614cc577787de3dd9722dd6196de7  AtherKeybinds-0.2.0-alpha4.zip
-9d6b724a028565efd133ba0e00a9dc97ed83b9abf7d19296fa1566147cd7a5c9  Ather-Combo-Counter-Attack-0.1.0-alpha6-client.zip
+3e2469ad2c9e7210db6b33eb7c2d0965fddba9d1b04ec8b4e82309a56d61c419  Ather-Combo-Counter-Attack-0.1.0-alpha7-client.zip

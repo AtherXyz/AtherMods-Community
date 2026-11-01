@@ -7,7 +7,7 @@
 **EN:** All 30 mods are available as individual files. The catalog lists names, versions, credits and links. Drive access or signing in is not required to download them.
 
 - [Catálogo y descargas individuales / Catalog and individual downloads](ATHER-MODPACK.md)
-- [Archivo inicial de 30 ZIP (Perspective alfa10) / Initial 30-ZIP archive (Perspective alpha10)](https://github.com/AtherXyz/AtherMods-Community/releases/tag/ather-modpack-30mods-20261031-r1)
+- [Archivo inicial de 30 ZIP (Perspective alfa10 y Combo alfa6) / Initial 30-ZIP archive (Perspective alpha10 and Combo alpha6)](https://github.com/AtherXyz/AtherMods-Community/releases/tag/ather-modpack-30mods-20261031-r1)
 - [Manifiesto: versiones, tamaños y SHA-256 / Manifest: versions, sizes and SHA-256](release-manifest.json)
 - [SHA256SUMS.txt](SHA256SUMS.txt)
 
@@ -34,3 +34,11 @@ SHA-256: `13212b2c9db8c3aac025e2f51e84181fd71a2ede4cc26125fdff25928c7184bd`
 9141686 bytes · SHA-256 `e4b2a67db2495dc626503c8c6829ef8daa11f10afa7b4ac34149d949c8bc083e`
 
 ES: Sustituye alfa10 en el catálogo actual. Activa solo una versión de Perspective; conserva la anterior para volver atrás. EN: Replaces alpha10 in the current catalog. Enable only one Perspective version; retain the previous one for rollback.
+
+## Combo Counter — actualización / update
+
+[Descargar Combo Counter 0.1.0-alpha7-client / Download Combo Counter 0.1.0-alpha7-client](https://github.com/AtherXyz/AtherMods-Community/releases/download/ather-combo-counter-v0.1.0-alpha7-client/Ather-Combo-Counter-Attack-0.1.0-alpha7-client.zip)
+
+60272 bytes · SHA-256 `3e2469ad2c9e7210db6b33eb7c2d0965fddba9d1b04ec8b4e82309a56d61c419`
+
+ES: Alfa experimental con viñeta de nube compacta; pruebas automáticas, nativas, visuales y físicas pendientes. Desactiva alfa6 antes de activar alfa7 y conserva su archivo para volver atrás. EN: Experimental alpha with a compact cloud bubble; automated, native, visual and physical tests pending. Disable alpha6 before enabling alpha7 and retain its file for rollback.
