@@ -1,3 +1,9 @@
+# Créditos y licencias / Credits and licenses
+
+ES: Catálogo Android actual:31 mods, app158. Las versiones antiguas citadas más abajo conservan sus avisos históricos. Utility evoluciona Combo; Alone acredita a LaoWang con adaptación Android Ather y procedencia Jeff. Los demás autores originales se conservan en el catálogo. Publicar/adaptar no transfiere autoría ni concede una licencia nueva. La evidencia de permisos de algunos recursos y dependencias sigue incompleta; no se declara resuelta por publicar.
+
+EN: Current Android catalog:31 mods, app158. Older versions cited below retain their historical notices. Utility evolves Combo; Alone credits LaoWang with Ather Android adaptation and Jeff provenance. Other original creators remain credited in the catalog. Publishing/adapting does not transfer authorship or grant a new license. Permission evidence for some assets and dependencies remains incomplete; publication is not claimed to resolve it.
+
 # Créditos, licencias y distribución / Credits, licenses and distribution
 
 **ES:** Don't Starve Together pertenece a sus titulares; la edición Android es de Playdigious. Se requiere el juego original adquirido legalmente. Este repositorio no distribuye el juego ni sus recursos. Los nombres de autores se conservan en los catálogos. Una adaptación no transfiere derechos.
@@ -81,3 +87,4 @@ SOFTWARE.
 ES: Autor Ather. Actualización visual de la viñeta de nube. Ather solicita publicar este ZIP exacto. Se conserva alfa6 como archivo histórico; no se afirma que su validación cubra alfa7. No se concede una nueva licencia de código abierto ni se relicencian recursos de terceros.
 
 EN: Author Ather. Visual cloud-bubble update. Ather requests publication of this exact ZIP. Alpha6 remains a historical file; its validation is not claimed to cover alpha7. No new open-source license is granted and no third-party resources are relicensed.
+

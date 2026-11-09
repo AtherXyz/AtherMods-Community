@@ -1,25 +1,31 @@
-# Ather Mods App
+# Ather Mods App —0.14.0-alpha158-workshop
 
-**0.13.4-alpha82-eco1 — STABLE BETA / BETA ESTABLE**
+[Descargar APK / Download APK](https://github.com/AtherXyz/AtherMods-Community/releases/download/ather-mods-20261109-alpha158-pack31/AtherMods_0.14.0-alpha158-workshop.apk) · [Release](https://github.com/AtherXyz/AtherMods-Community/releases/tag/ather-mods-20261109-alpha158-pack31)
 
-[Descargar APK / Download APK](https://github.com/AtherXyz/AtherMods-Community/releases/download/v0.13.4-alpha82-eco1/AtherMods_0.13.4-alpha82-eco1.apk)
+11080262 bytes · SHA-256 `2d7c5a7eb3ced0cc3339867198e2752ce50503daee0e125510a4dd1d9f8148f4`
 
-1290454 bytes · SHA-256 `13212b2c9db8c3aac025e2f51e84181fd71a2ede4cc26125fdff25928c7184bd`
+## Español
 
-**ES:** Estado aceptado por Ather tras sus pruebas físicas. La descarga pública individual de esta APK está disponible. Se ha comprobado tamaño y SHA-256 mediante descarga sin autenticación.
+Candidata Android que actualiza la interfaz y conserva el gestor de sesiones y perfiles de mundo.
 
-**EN:** Accepted by Ather following physical testing. The individual public APK download is available. Size and SHA-256 have been checked through an anonymous download.
+- Diseño azul oscuro/cian, arte de bosque y cinco acciones: Sesión con mods, Cancelar sesión, Crear carpeta, Seleccionar carpeta y Cargar ZIP.
+- Mis mods/Get Mods, búsqueda y filtros, fichas, enlaces a GitHub, progreso y cancelación de descarga.
+- Verificación de ZIP y descarga a una carpeta elegida con el selector de Android; conserva versiones existentes y no activa la sesión automáticamente.
+- Estado de Shizuku al inicio y tutorial breve. Los permisos deben concederse mediante el flujo de la app.
+- Mods de cliente globales y de servidor por mundo; perfiles existentes no se migran silenciosamente. Conserva correcciones recientes de recuperación e integración Alone.
 
-| Función / Feature | Descripción / Description |
-| --- | --- |
-| Biblioteca / Library | Importar uno o varios ZIP o una carpeta, conservando originales / Import one or several ZIPs or a folder while preserving originals |
-| Selección nativa / Native selection | Elegir mods desde los menús del juego / Select mods through the game's menus |
-| Cliente / Client | Selección global compartida entre mundos / Global selection shared across worlds |
-| Servidor / Server | Selección y configuración por mundo / Selection and configuration per world |
-| Diagnóstico / Diagnostics | Exportar un registro para ayudar a informar errores / Export a log to support issue reports |
+Get Mods ofrece28 versiones previamente comprobadas. Las31 candidatas nuevas se ofrecen en el catálogo web y se importan manualmente. El diseño y flujo completo de selector/descarga aún requieren validación física. Los errores heredados de determinados mundos no se consideran resueltos por un cambio visual.
 
-**ES — Requisitos:** Android con el juego original compatible instalado y Shizuku iniciado y autorizado para Ather Mods. Versión del juego probada: Playdigious 2.3.1 (100). No se establece un mínimo universal de RAM ni se garantiza cada combinación de mods. El atajo flotante es opcional.
+## English
 
-**EN — Requirements:** Android with the compatible original game installed and Shizuku running and authorized for Ather Mods. Tested game version: Playdigious 2.3.1 (100). No universal RAM minimum or guarantee for every mod combination is established. The floating shortcut is optional.
+Android candidate updating the interface while retaining session and world-profile management.
 
-[Instalación / Installation](INSTALL.md) · [Disponibilidad y hash / Availability and hash](DOWNLOADS.md)
+- Dark blue/cyan design, forest art and five actions: mod session, cancel session, create folder, select folder and load ZIP.
+- My Mods/Get Mods, search and filters, details, GitHub links, download progress and cancellation.
+- ZIP verification and download to an Android-picker folder; preserves existing versions and does not automatically enable a session.
+- Startup Shizuku status and brief tutorial. Grant permissions through the app's own flow.
+- Global client and per-world server mods; existing profiles are not silently migrated. Retains recent recovery and Alone integration fixes.
+
+Get Mods offers28 previously reviewed versions. The31new candidates are in the web catalog and can be imported manually. Design and the complete picker/download flow still need physical validation. Inherited errors in particular worlds are not considered resolved by a visual update.
+
+[Instalación / Installation](INSTALL.md) · [Estado y novedades / Status and changes](NOVEDADES.md)

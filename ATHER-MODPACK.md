@@ -1,65 +1,259 @@
-# Ather Modpack — 30 descargas / 30 downloads
+# Ather Modpack —31 mods Android /31 Android mods
 
-**ES:** Los 30 ZIP del inventario tienen descarga pública individual. Se conservan sus versiones exactas y créditos. Ather comunica funcionamiento satisfactorio de la selección en su dispositivo; no equivale a una garantía universal ni a una revisión exhaustiva de cada función. Son 14 mods de cliente y 16 de servidor.
+ES: Selección reciente,14 clientes y17 servidor; descargas individuales y versiones exactas. Utility conserva el combo y sustituye al Combo Counter antiguo; Alone es opcional. Estas candidatas no heredan las pruebas físicas del pack anterior.
 
-**EN:** All 30 ZIPs in the inventory have individual public downloads. Exact versions and credits are retained. Ather reports satisfactory operation of the selection on his device; this is neither a universal guarantee nor an exhaustive review of every feature. There are 14 client mods and 16 server mods.
+EN: Recent selection,14 client and17 server mods; individual downloads and exact versions. Utility retains the combo and replaces old Combo Counter; Alone is optional. These candidates do not inherit physical testing of the previous pack.
 
-## Mods propios Ather / Ather original mods
+[APK e instalación / APK and installation](INSTALL.md) · [Novedades generales / Overall changes](NOVEDADES.md) · [Hashes / Checksums](SHA256SUMS.txt)
 
-- [Ather Slots 0.4.0-alpha9-QA](https://github.com/AtherXyz/AtherMods-Community/releases/download/ather-modpack-30mods-20261031-r1/Ather-Slots-0.4.0-alpha9-QA.zip)
-- [Ather Perspective 0.1.4-alpha14](https://github.com/AtherXyz/AtherMods-Community/releases/download/ather-perspective-v0.1.4-alpha14/Ather-Perspective-0.1.4-alpha14.zip)
-- [AtherKeybinds 0.2.0-alpha4](https://github.com/AtherXyz/AtherMods-Community/releases/download/ather-modpack-30mods-20261031-r1/AtherKeybinds-0.2.0-alpha4.zip)
-- [Ather Combo Counter Attack 0.1.0-alpha7-client](https://github.com/AtherXyz/AtherMods-Community/releases/download/ather-combo-counter-v0.1.0-alpha7-client/Ather-Combo-Counter-Attack-0.1.0-alpha7-client.zip)
+**Ather Perspective Mobile — `0.1.4-alpha30-repeat-lifecycle`** · [Descargar / Download](https://github.com/AtherXyz/AtherMods-Community/releases/download/ather-mods-20261109-alpha158-pack31/Ather-Perspective-Mobile-0.1.4-alpha30-repeat-lifecycle.zip)
 
-## Catálogo completo / Complete catalog
+Cliente / Client · Créditos / Credits: Ather.
 
-| Mod | Versión / Version | Tipo / Type | Créditos / Credits | Descarga / Download |
-| --- | --- | --- | --- | --- |
-| Auto Catch(Client) | 2.7 | Cliente / Client | 川小胖 | [Descargar / Download](https://github.com/AtherXyz/AtherMods-Community/releases/download/ather-modpack-30mods-20261031-r1/workshop-2996761707-mobile-r29.zip) |
-| Autopilot | 1.3.0 | Cliente / Client | AlexXsWx | [Descargar / Download](https://github.com/AtherXyz/AtherMods-Community/releases/download/ather-modpack-30mods-20261031-r1/workshop-2361080636-mobile-r28.zip) |
-| Auto-Refuel Stuff | 0.9.1 | Cliente / Client | Remi | [Descargar / Download](https://github.com/AtherXyz/AtherMods-Community/releases/download/ather-modpack-30mods-20261031-r1/workshop-3310576763-mobile-r18.zip) |
-| Auto Rowing (Updated) | 3.5 | Cliente / Client | Frank And Cosson, updated by Mrcris997 (Kryz) | [Descargar / Download](https://github.com/AtherXyz/AtherMods-Community/releases/download/ather-modpack-30mods-20261031-r1/workshop-2836299735-mobile-r30.zip) |
-| Auto Walking | 3.8.2 | Cliente / Client | 川小胖 & Fengying(original author) | [Descargar / Download](https://github.com/AtherXyz/AtherMods-Community/releases/download/ather-modpack-30mods-20261031-r1/workshop-2849308125-jeff-bridge-r1.zip) |
-| Item Info Reworked | 2.0.5 | Cliente / Client | Alti | [Descargar / Download](https://github.com/AtherXyz/AtherMods-Community/releases/download/ather-modpack-30mods-20261031-r1/workshop-3118627881-mobile-r18.zip) |
-| Simple Season HUD | 1.0.6 | Cliente / Client | Hihi (original by rezecip) | [Descargar / Download](https://github.com/AtherXyz/AtherMods-Community/releases/download/ather-modpack-30mods-20261031-r1/workshop-3490028678-mobile-r18.zip) |
-| smart-pot | 1.3.1.5 | Cliente / Client | HeiAZBZ | [Descargar / Download](https://github.com/AtherXyz/AtherMods-Community/releases/download/ather-modpack-30mods-20261031-r1/workshop-3667189500-mobile-r18.zip) |
-| Snow Tile Disabler | 0.1.2 | Cliente / Client | CarlZalph | [Descargar / Download](https://github.com/AtherXyz/AtherMods-Community/releases/download/ather-modpack-30mods-20261031-r1/workshop-822508420-mobile-r18.zip) |
-| Auto Door | 3.0 | Servidor / Server | charlie | [Descargar / Download](https://github.com/AtherXyz/AtherMods-Community/releases/download/ather-modpack-30mods-20261031-r1/workshop-2074508776-mobile-r18.zip) |
-| Auto Stack and Pick Up | 0.3.1-mobile23-ground-sweep | Servidor / Server | Ultroman / Android adaptation by Yucheng | [Descargar / Download](https://github.com/AtherXyz/AtherMods-Community/releases/download/ather-modpack-30mods-20261031-r1/workshop-1803285852-jeff-mobile.zip) |
-| Beefalo Saddled No Poop | 2.0.0 | Servidor / Server | liolok | [Descargar / Download](https://github.com/AtherXyz/AtherMods-Community/releases/download/ather-modpack-30mods-20261031-r1/workshop-1769805475-mobile-r18.zip) |
-| Beefalo Status Bar | 1.4.0-mobile2 | Servidor / Server | MNK | [Descargar / Download](https://github.com/AtherXyz/AtherMods-Community/releases/download/ather-modpack-30mods-20261031-r1/workshop-2477889104-jeff-mobile.zip) |
-| [BETA]Rideable Grass Gator | 26.10.24 | Servidor / Server | ZGY & 翊Alonesaur & 鬼刀御流 | [Descargar / Download](https://github.com/AtherXyz/AtherMods-Community/releases/download/ather-modpack-30mods-20261031-r1/workshop-3644117429-mobile-r18.zip) |
-| Better Beefalo - English | 2.82 | Servidor / Server | Dihran | [Descargar / Download](https://github.com/AtherXyz/AtherMods-Community/releases/download/ather-modpack-30mods-20261031-r1/workshop-3705795703-mobile-r33.zip) |
-| Build Houses | 2.0.5 | Servidor / Server | 微热 / Weire | [Descargar / Download](https://github.com/AtherXyz/AtherMods-Community/releases/download/ather-modpack-30mods-20261031-r1/workshop-3664017907-mobile-r18.zip) |
-| Epic Healthbar | 102 | Servidor / Server | Tykvesh | [Descargar / Download](https://github.com/AtherXyz/AtherMods-Community/releases/download/ather-modpack-30mods-20261031-r1/workshop-1185229307-jeff-mobile.zip) |
-| Functional Medal | 1.6.8.2 | Servidor / Server | 恒子、 / 白日(画师) / BCI(动画) | [Descargar / Download](https://github.com/AtherXyz/AtherMods-Community/releases/download/ather-modpack-30mods-20261031-r1/workshop-1909182187-mobile-r32.zip) |
-| Indestructible Eye Mask | 1.0 | Servidor / Server | π | [Descargar / Download](https://github.com/AtherXyz/AtherMods-Community/releases/download/ather-modpack-30mods-20261031-r1/workshop-2728123624-mobile-r18.zip) |
-| Lovely Tallbird Family r39 | 26.10.16-ather-r39 | Servidor / Server | over_dragon、Guto | [Descargar / Download](https://github.com/AtherXyz/AtherMods-Community/releases/download/ather-modpack-30mods-20261031-r1/Lovely-Tallbird-Family-Android-r39.zip) |
-| More equip slots | 1.3.6 | Servidor / Server | AndreyMZ | [Descargar / Download](https://github.com/AtherXyz/AtherMods-Community/releases/download/ather-modpack-30mods-20261031-r1/workshop-2324689937-mobile-r18.zip) |
-| Open Backpacks on Ground | 1.1.0 | Servidor / Server | mlas_233 | [Descargar / Download](https://github.com/AtherXyz/AtherMods-Community/releases/download/ather-modpack-30mods-20261031-r1/workshop-3723913746-mobile-r18.zip) |
-| Seeds don't rot | 20.06.25.02 | Servidor / Server | PW | [Descargar / Download](https://github.com/AtherXyz/AtherMods-Community/releases/download/ather-modpack-30mods-20261031-r1/workshop-3498078643-mobile-r18.zip) |
-| Smart Minisign | 1.1.8 | Servidor / Server | Xiaobanhua mamjun1 | [Descargar / Download](https://github.com/AtherXyz/AtherMods-Community/releases/download/ather-modpack-30mods-20261031-r1/workshop-1595631294-mobile-r34.zip) |
-| Special Saddles | 2.2.0 | Servidor / Server | howieshen and pinkmollies and ryuu | [Descargar / Download](https://github.com/AtherXyz/AtherMods-Community/releases/download/ather-modpack-30mods-20261031-r1/workshop-2805330515-mobile-r18.zip) |
-| Ather Slots | 0.4.0-alpha9-QA | Cliente / Client | Dario | [Descargar / Download](https://github.com/AtherXyz/AtherMods-Community/releases/download/ather-modpack-30mods-20261031-r1/Ather-Slots-0.4.0-alpha9-QA.zip) |
-| Ather Perspective | 0.1.4-alpha14 | Cliente / Client | Ather | [Descargar / Download](https://github.com/AtherXyz/AtherMods-Community/releases/download/ather-perspective-v0.1.4-alpha14/Ather-Perspective-0.1.4-alpha14.zip) |
-| UI Drag Zoom | 1.0.24-ather-editfix1 | Cliente / Client | 繁花丶海棠 | [Descargar / Download](https://github.com/AtherXyz/AtherMods-Community/releases/download/ather-modpack-30mods-20261031-r1/UI-Drag-Zoom-1.0.24-Ather-editfix1.zip) |
-| AtherKeybinds | 0.2.0-alpha4 | Cliente / Client | Ather | [Descargar / Download](https://github.com/AtherXyz/AtherMods-Community/releases/download/ather-modpack-30mods-20261031-r1/AtherKeybinds-0.2.0-alpha4.zip) |
-| Ather Combo Counter Attack | 0.1.0-alpha7-client | Cliente / Client | Ather | [Descargar / Download](https://github.com/AtherXyz/AtherMods-Community/releases/download/ather-combo-counter-v0.1.0-alpha7-client/Ather-Combo-Counter-Attack-0.1.0-alpha7-client.zip) |
+ES: Interacciones contextuales y trabajo continuo CHOP/MINE/DIG al mantener pulsado; cadena tras2s, objetivo al pecho y protección de callbacks de una interfaz anterior.
 
-**ES — Procedencia:** los mods propios de Ather se distinguen de las adaptaciones Android de obras de terceros. Auto Walking, Auto Stack and Pick Up, Beefalo Status Bar, Epic Healthbar y la base de Smart Minisign proceden de la distribución de Jeff; sus autores originales mantienen la autoría. Este catálogo permanece separado de [Jeff Modlist](JEFF-MODLIST.md).
+EN: Contextual interactions and continuous held CHOP/MINE/DIG work; chaining after2s, chest targeting and protection against callbacks from a previous interface.
 
-**EN — Provenance:** Ather's original mods are distinguished from Android adaptations of third-party works. Auto Walking, Auto Stack and Pick Up, Beefalo Status Bar, Epic Healthbar and the Smart Minisign baseline originate from Jeff's distribution; original creators retain authorship. This catalog remains separate from [Jeff Modlist](JEFF-MODLIST.md).
+**Ather Alone Android — `0.1.0-alpha21-bootstrap-cleanup`** · [Descargar / Download](https://github.com/AtherXyz/AtherMods-Community/releases/download/ather-mods-20261109-alpha158-pack31/Ather-Alone-0.1.0-alpha21-bootstrap-cleanup.zip)
 
-**ES — Licencias:** conserva los avisos incluidos en cada ZIP. La disponibilidad del archivo no sustituye la evidencia de derechos ni concede una licencia nueva. [Avisos y estado de licencias](THIRD-PARTY-NOTICES.md).
+Servidor / Server · Créditos / Credits: LaoWang; adaptación Android Ather (referencia Jeff).
 
-**EN — Licenses:** retain the notices included in each ZIP. File availability does not replace rights evidence or grant a new license. [Notices and license status](THIRD-PARTY-NOTICES.md).
+ES: Modo local individual con integración del gestor; limpieza del índice temporal de perecederos. Opcional: sólo mundos nuevos o expresamente compatibles.
 
-[Todos los ZIP / All ZIPs](https://github.com/AtherXyz/AtherMods-Community/releases/tag/ather-modpack-30mods-20261031-r1) · [Tamaños y SHA-256 / Sizes and SHA-256](release-manifest.json) · [Instalación / Installation](INSTALL.md)
+EN: Local single-player mode integrated with the manager; temporary perishable-index cleanup. Optional: new or explicitly compatible worlds only.
 
-**ES — Actualización Perspective:** alfa14 sustituye alfa10 en esta selección. Tiene validación nativa acotada en emulador (solo Perspective, DST2.3.1/100, gestoralpha80); validación física y convivencia con los otros29mods pendientes. No se atribuyen a alfa14 las pruebas físicas del pack anterior. Importa alfa14 y desactiva las versiones anteriores de Perspective.
+**Lovely Tallbird Family r40-egg1 — `26.10.16-ather-r40-egg1`** · [Descargar / Download](https://github.com/AtherXyz/AtherMods-Community/releases/download/ather-mods-20261109-alpha158-pack31/Lovely-Tallbird-Family-Android-r40-egg1.zip)
 
-**EN — Perspective update:** alpha14 replaces alpha10 in this selection. It has bounded native emulator validation (Perspective alone, DST2.3.1/100, manageralpha80); physical validation and coexistence with the other29mods remain pending. The previous pack's physical tests are not attributed to alpha14. Import alpha14 and disable older Perspective versions.
+Servidor / Server · Créditos / Credits: over_dragon、Guto.
 
-**ES — Combo actualizado:** alfa7 añade una viñeta de nube compacta. Está implementada, sin pruebas automáticas, carga nativa ni validación visual/física registradas para este ZIP. La prueba física de alfa6 no cubre alfa7. Activa solo una versión y conserva alfa6 como retorno.
+ES: Corrección de colisión de recursos para huevo/nido; otros casos de invisibilidad requieren validación.
 
-**EN — Combo updated:** alpha7 adds a compact cloud bubble. It is implemented, with no recorded automated tests, native loading or visual/physical validation for this ZIP. Alpha6 physical testing does not cover alpha7. Enable only one version and retain alpha6 for rollback.
+EN: Egg/nest resource-collision correction; other invisibility cases need validation.
+
+**Ather Slots — `0.4.0-alpha13-observepool`** · [Descargar / Download](https://github.com/AtherXyz/AtherMods-Community/releases/download/ather-mods-20261109-alpha158-pack31/Ather-Slots-0.4.0-alpha13-observepool.zip)
+
+Cliente / Client · Créditos / Credits: Dario.
+
+ES: Memoria de origen y sustitución de equipo; menos tablas temporales y búsquedas repetidas de huecos. Sin prueba de eliminación de todos los tirones.
+
+EN: Origin memory and equipment replacement; fewer temporary tables and repeated free-slot searches. No proof that all hitches are eliminated.
+
+**Ather Utility (Combo Counter) — `0.2.0-alpha13-details`** · [Descargar / Download](https://github.com/AtherXyz/AtherMods-Community/releases/download/ather-mods-20261109-alpha158-pack31/Ather-Utility-0.2.0-alpha13-details.zip)
+
+Cliente / Client · Créditos / Credits: Ather.
+
+ES: Evolución de Combo: plazo1,2s, información al tocar, viñetas legibles y paginadas, avisos de desgaste/luz/herramientas; acciones al tocar. Item Info opcional. Sustituye al Combo antiguo.
+
+EN: Evolves Combo:1.2s window, tap information, readable paginated bubbles and wear/light/tool notices; explicit tap actions. Optional Item Info support. Replaces old Combo.
+
+**Snow Tile Disabler — `0.1.2-ather-opt2`** · [Descargar / Download](https://github.com/AtherXyz/AtherMods-Community/releases/download/ather-mods-20261109-alpha158-pack31/workshop-822508420-mobile-r18-opt2.zip)
+
+Cliente / Client · Créditos / Credits: CarlZalph.
+
+ES: Icono optimizado; comportamiento de nieve conservado.
+
+EN: Optimized icon; snow behavior retained.
+
+**Open Backpacks on Ground — `1.1.0-ather-opt2`** · [Descargar / Download](https://github.com/AtherXyz/AtherMods-Community/releases/download/ather-mods-20261109-alpha158-pack31/workshop-3723913746-mobile-r18-opt2.zip)
+
+Servidor / Server · Créditos / Credits: mlas_233.
+
+ES: Reutiliza tablas de contenedores dentro del mismo barrido.
+
+EN: Reuses container tables within the same scan.
+
+**Better Beefalo - English — `2.82-ather-opt2`** · [Descargar / Download](https://github.com/AtherXyz/AtherMods-Community/releases/download/ather-mods-20261109-alpha158-pack31/workshop-3705795703-mobile-r33-opt2.zip)
+
+Servidor / Server · Créditos / Credits: Dihran.
+
+ES: Limpieza de paquete y trabajo repetido conservando funciones.
+
+EN: Package cleanup and reduced repeated work while retaining features.
+
+**smart-pot — `1.3.1.5-ather-opt2`** · [Descargar / Download](https://github.com/AtherXyz/AtherMods-Community/releases/download/ather-mods-20261109-alpha158-pack31/workshop-3667189500-mobile-r18-opt2.zip)
+
+Cliente / Client · Créditos / Credits: HeiAZBZ.
+
+ES: Elimina recuentos de recetas que no se utilizaban.
+
+EN: Removes unused recipe counts.
+
+**Build Houses — `2.0.5-ather-opt2`** · [Descargar / Download](https://github.com/AtherXyz/AtherMods-Community/releases/download/ather-mods-20261109-alpha158-pack31/workshop-3664017907-mobile-r18-opt2.zip)
+
+Servidor / Server · Créditos / Credits: 微热 / Weire.
+
+ES: Recursos optimizados conservando detalle y contenido.
+
+EN: Optimized resources retaining detail and content.
+
+**[BETA]Rideable Grass Gator — `26.10.24-ather-opt2`** · [Descargar / Download](https://github.com/AtherXyz/AtherMods-Community/releases/download/ather-mods-20261109-alpha158-pack31/workshop-3644117429-mobile-r19-opt2.zip)
+
+Servidor / Server · Créditos / Credits: ZGY & 翊Alonesaur & 鬼刀御流.
+
+ES: Paquete y recursos optimizados manteniendo detalle y animaciones.
+
+EN: Optimized package and resources retaining detail and animations.
+
+**Seeds don't rot — `20.06.25.02-ather-opt2`** · [Descargar / Download](https://github.com/AtherXyz/AtherMods-Community/releases/download/ather-mods-20261109-alpha158-pack31/workshop-3498078643-mobile-r18-opt2.zip)
+
+Servidor / Server · Créditos / Credits: PW.
+
+ES: Icono optimizado; perecimiento conservado.
+
+EN: Optimized icon; perish behavior retained.
+
+**Simple Season HUD — `1.0.6-ather-opt2`** · [Descargar / Download](https://github.com/AtherXyz/AtherMods-Community/releases/download/ather-mods-20261109-alpha158-pack31/workshop-3490028678-mobile-r18-opt2.zip)
+
+Cliente / Client · Créditos / Credits: Hihi (original by rezecip).
+
+ES: Icono optimizado; lógica de estaciones y temperatura conservada.
+
+EN: Optimized icon; season and temperature logic retained.
+
+**Auto-Refuel Stuff — `0.9.1-ather-opt2`** · [Descargar / Download](https://github.com/AtherXyz/AtherMods-Community/releases/download/ather-mods-20261109-alpha158-pack31/workshop-3310576763-mobile-r19-opt2.zip)
+
+Cliente / Client · Créditos / Credits: Remi.
+
+ES: Conserva la corrección de tareas canceladas y optimiza el icono.
+
+EN: Retains cancelled-task correction and optimizes the icon.
+
+**Item Info Reworked — `2.0.5-ather-opt2`** · [Descargar / Download](https://github.com/AtherXyz/AtherMods-Community/releases/download/ather-mods-20261109-alpha158-pack31/workshop-3118627881-mobile-r18-opt2.zip)
+
+Cliente / Client · Créditos / Credits: Alti.
+
+ES: Atlas de marco más compacto conservando texeles y dimensiones lógicas.
+
+EN: More compact frame atlas retaining texels and logical dimensions.
+
+**Auto Catch(Client) — `2.7-ather-opt2`** · [Descargar / Download](https://github.com/AtherXyz/AtherMods-Community/releases/download/ather-mods-20261109-alpha158-pack31/workshop-2996761707-mobile-r29-opt2.zip)
+
+Cliente / Client · Créditos / Credits: 川小胖.
+
+ES: Icono optimizado y cálculo sin uso retirado.
+
+EN: Optimized icon and removal of unused computation.
+
+**Auto Walking — `3.8.2-ather-opt2`** · [Descargar / Download](https://github.com/AtherXyz/AtherMods-Community/releases/download/ather-mods-20261109-alpha158-pack31/workshop-2849308125-jeff-bridge-r1-opt2.zip)
+
+Cliente / Client · Créditos / Credits: 川小胖 & Fengying(original author).
+
+ES: Elimina copias antiguas no utilizadas; conserva entrada y rutas activas.
+
+EN: Removes unused old copies while retaining input and active routing.
+
+**Auto Rowing (Updated) — `3.5-ather-opt2`** · [Descargar / Download](https://github.com/AtherXyz/AtherMods-Community/releases/download/ather-mods-20261109-alpha158-pack31/workshop-2836299735-mobile-r30-opt2.zip)
+
+Cliente / Client · Créditos / Credits: Frank And Cosson, updated by Mrcris997 (Kryz).
+
+ES: Icono optimizado conservando dimensiones y niveles de detalle.
+
+EN: Optimized icon retaining dimensions and detail levels.
+
+**Special Saddles — `2.2.0-ather-opt2`** · [Descargar / Download](https://github.com/AtherXyz/AtherMods-Community/releases/download/ather-mods-20261109-alpha158-pack31/workshop-2805330515-mobile-r18-opt2.zip)
+
+Servidor / Server · Créditos / Credits: howieshen and pinkmollies and ryuu .
+
+ES: Iconos optimizados conservando animación y funciones de sillas.
+
+EN: Optimized icons retaining saddle animations and features.
+
+**Indestructible Eye Mask — `1.0-ather-opt2`** · [Descargar / Download](https://github.com/AtherXyz/AtherMods-Community/releases/download/ather-mods-20261109-alpha158-pack31/workshop-2728123624-mobile-r18-opt2.zip)
+
+Servidor / Server · Créditos / Credits: π.
+
+ES: Icono optimizado; reglas de armadura conservadas.
+
+EN: Optimized icon; armor rules retained.
+
+**Beefalo Status Bar — `1.4.0-mobile2-ather-opt2`** · [Descargar / Download](https://github.com/AtherXyz/AtherMods-Community/releases/download/ather-mods-20261109-alpha158-pack31/workshop-2477889104-jeff-mobile-opt2.zip)
+
+Servidor / Server · Créditos / Credits: MNK.
+
+ES: Reutiliza resultados de consultas de estado en una misma actualización.
+
+EN: Reuses status-query results within the same update.
+
+**Autopilot — `1.3.0-ather-opt2`** · [Descargar / Download](https://github.com/AtherXyz/AtherMods-Community/releases/download/ather-mods-20261109-alpha158-pack31/workshop-2361080636-mobile-r28-opt2.zip)
+
+Cliente / Client · Créditos / Credits: AlexXsWx.
+
+ES: Retirada de sus controles sin sobrescribir cambios posteriores de otros mods.
+
+EN: Removes its controls without overwriting later changes from other mods.
+
+**More equip slots — `1.3.6-ather-opt2`** · [Descargar / Download](https://github.com/AtherXyz/AtherMods-Community/releases/download/ather-mods-20261109-alpha158-pack31/workshop-2324689937-mobile-r18-opt2.zip)
+
+Servidor / Server · Créditos / Credits: AndreyMZ.
+
+ES: Atlas de iconos más compacto con tamaño lógico y texeles conservados.
+
+EN: More compact icon atlas retaining logical size and texels.
+
+**Auto Door — `3.0-ather-opt2`** · [Descargar / Download](https://github.com/AtherXyz/AtherMods-Community/releases/download/ather-mods-20261109-alpha158-pack31/workshop-2074508776-mobile-r18-opt2.zip)
+
+Servidor / Server · Créditos / Credits: charlie.
+
+ES: Icono optimizado conservando comportamiento.
+
+EN: Optimized icon retaining behavior.
+
+**Functional Medal — `1.6.8.2-ather-opt2`** · [Descargar / Download](https://github.com/AtherXyz/AtherMods-Community/releases/download/ather-mods-20261109-alpha158-pack31/workshop-1909182187-mobile-r32-opt2.zip)
+
+Servidor / Server · Créditos / Credits: 恒子、|白日(画师)|BCI(动画).
+
+ES: Icono optimizado; atlas grandes, fotogramas y contenido conservados.
+
+EN: Optimized icon; large atlases, frames and content retained.
+
+**Auto Stack and Pick Up — `0.3.1-mobile23-ground-sweep-ather-opt2`** · [Descargar / Download](https://github.com/AtherXyz/AtherMods-Community/releases/download/ather-mods-20261109-alpha158-pack31/workshop-1803285852-jeff-mobile-opt2.zip)
+
+Servidor / Server · Créditos / Credits: Ultroman / Android adaptation by Yucheng.
+
+ES: Reduce trabajo repetido conservando reglas de recogida/apilado.
+
+EN: Reduces repeated work while retaining pickup/stack rules.
+
+**Beefalo Saddled No Poop — `2.0.0-ather-opt2`** · [Descargar / Download](https://github.com/AtherXyz/AtherMods-Community/releases/download/ather-mods-20261109-alpha158-pack31/workshop-1769805475-mobile-r18-opt2.zip)
+
+Servidor / Server · Créditos / Credits: liolok.
+
+ES: Icono optimizado; comportamiento original conservado.
+
+EN: Optimized icon; original behavior retained.
+
+**Smart Minisign — `1.1.8-ather-opt2`** · [Descargar / Download](https://github.com/AtherXyz/AtherMods-Community/releases/download/ather-mods-20261109-alpha158-pack31/workshop-1595631294-mobile-r34-opt2.zip)
+
+Servidor / Server · Créditos / Credits: Xiaobanhua mamjun1.
+
+ES: Retira un helper sin uso y conserva la corrección de propiedad.
+
+EN: Removes an unused helper and retains the ownership correction.
+
+**Epic Healthbar — `102-ather-opt2`** · [Descargar / Download](https://github.com/AtherXyz/AtherMods-Community/releases/download/ather-mods-20261109-alpha158-pack31/workshop-1185229307-jeff-mobile-opt2.zip)
+
+Servidor / Server · Créditos / Credits: Tykvesh.
+
+ES: Reutiliza datos durante la actualización; mantiene atlas y animaciones.
+
+EN: Reuses data during updates; retains atlas and animations.
+
+**UI Drag Zoom — `1.0.24-ather-editfix1-ather-opt2`** · [Descargar / Download](https://github.com/AtherXyz/AtherMods-Community/releases/download/ather-mods-20261109-alpha158-pack31/UI-Drag-Zoom-1.0.24-Ather-editfix1-opt2.zip)
+
+Cliente / Client · Créditos / Credits: 繁花丶海棠.
+
+ES: Icono optimizado; gestos y edición conservados.
+
+EN: Optimized icon; gestures and editing retained.
+
+**AtherKeybinds — `0.2.0-alpha5-opt2`** · [Descargar / Download](https://github.com/AtherXyz/AtherMods-Community/releases/download/ather-mods-20261109-alpha158-pack31/AtherKeybinds-0.2.0-alpha5-opt2.zip)
+
+Cliente / Client · Créditos / Credits: Ather.
+
+ES: Evita reenviar tintes idénticos al refrescar el teclado; entrada y liberación conservadas.
+
+EN: Avoids resending identical tints during keyboard refresh; input and release retained.
+
+ES: Descarga disponible no significa prueba física superada. Slots13/Utility13/Perspective30/Alone21 tienen límites descritos en Novedades; las revisiones opt2 conservan validación nativa/física pendiente. Las autorías originales y procedencias de Jeff se conservan: adaptar un mod no convierte su autoría en Ather. [Jeff Modlist](JEFF-MODLIST.md) sigue independiente.
+
+EN: Download availability does not mean physical testing passed. Slots13/Utility13/Perspective30/Alone21 have limits documented in What's New; opt2 revisions retain pending native/physical validation. Original authors and Jeff provenance are retained: adaptation does not transfer authorship to Ather. [Jeff Modlist](JEFF-MODLIST.md) remains independent.

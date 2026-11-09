@@ -1,26 +1,18 @@
-# Buscamos testers / Testers wanted
+# Testers —informe de errores / issue reports
 
-**ATHER MODS — STABLE BETA / BETA ESTABLE**
+ES: La app158 y el catálogo reciente de31 mods se publican para ampliar validación. No heredan la aceptación física de Eco82 ni se garantiza compatibilidad universal. Get Mods conserva su lista de28 versiones comprobadas; las candidatas recientes se ofrecen por web.
 
-**ES:** Ather ha probado físicamente la aplicación y su selección de mods y comunica funcionamiento satisfactorio. Buscamos ampliar la validación en otros dispositivos y versiones de Android. La versión objetivo es 0.13.4-alpha82-eco1; la distribución pública sigue limitada según [Descargas](DOWNLOADS.md). No prometemos compatibilidad universal ni con versiones posteriores del juego a Playdigious 2.3.1 (100).
+EN: App158 and the recent31-mod catalog are published to extend validation. They do not inherit Eco82 physical acceptance and universal compatibility is not guaranteed. Get Mods retains its28 reviewed versions; recent candidates are offered on the web.
 
-**EN:** Ather has physically tested the application and the selected mods and reports satisfactory operation. We want to extend validation to other devices and Android versions. The target is 0.13.4-alpha82-eco1; public distribution remains limited as described in [Downloads](DOWNLOADS.md). We do not promise universal compatibility or compatibility with game versions later than Playdigious 2.3.1 (100).
+[Crear informe / Create report](https://github.com/AtherXyz/AtherMods-Community/issues/new)
 
-[Enviar informe / Submit a report](https://github.com/AtherXyz/AtherMods-Community/issues/new)
+- Modelo del dispositivo y Android / Device model and Android version.
+- Versión/código del juego y de Ather Mods / Game and Ather Mods versions/codes.
+- Nombre, versión y hash de los mods usados / Names, versions and hashes of used mods.
+- Mods de cliente/servidor y mundo nuevo o existente / Client/server mods and new or existing world.
+- Resultado esperado, problema, pasos y frecuencia / Expected result, problem, steps and frequency.
+- Captura o registro revisado sin datos personales / Reviewed screenshot or log without personal data.
 
-Incluye / Include:
+ES: No publiques credenciales, identificadores privados ni partidas personales. También son útiles los informes de funcionamiento correcto, indicando la selección exacta. No se solicitan pruebas destructivas sobre tus partidas.
 
-- Modelo del dispositivo / Device model.
-- Versión de Android / Android version.
-- Versión y código del juego / Game version and version code.
-- Versión de Ather Mods / Ather Mods version.
-- Mods y versiones utilizados, distinguiendo cliente y servidor / Mods and versions used, distinguishing client and server.
-- Problema observado y resultado esperado / Observed problem and expected result.
-- Pasos para reproducirlo y frecuencia / Reproduction steps and frequency.
-- Captura o diagnóstico revisado, si lo tienes / Reviewed screenshot or diagnostics, if available.
-
-**ES:** Retira datos personales, identificadores, cuentas y partidas privadas antes de publicar un registro. No compartas credenciales. También agradecemos informes de funcionamiento correcto con dispositivo, juego y selección exacta.
-
-**EN:** Remove personal data, identifiers, accounts and private saves before posting a log. Never share credentials. Successful-use reports are welcome too, with the device, game and exact mod selection.
-
-[Instalación / Installation](INSTALL.md) · [Catálogo Ather / Ather catalog](ATHER-MODPACK.md) · [Jeff independiente / Separate Jeff catalog](JEFF-MODLIST.md)
+EN: Do not publish credentials, private identifiers or personal saves. Successful-use reports are useful too, with the exact selection. Destructive tests on your saves are not requested.

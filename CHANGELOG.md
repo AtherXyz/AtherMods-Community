@@ -1,5 +1,12 @@
 # Cambios / Changelog
 
+## 2026-11-09 —app158 y31 mods / app158 and31 mods
+
+ES: Nueva entrega completa de APK y31 ZIP con versiones, créditos, SHA-256 y enlaces individuales. Interfaz/Get Mods, Perspective30, Utility13, Slots13, Alone21, Tallbirds r40 y revisiones opt2. Candidatas con validación parcial; no se ejecuta QA nuevo ni se modifican los binarios al publicarlos. [Novedades detalladas](NOVEDADES.md).
+
+EN: New complete delivery of APK and31 ZIPs with versions, credits, SHA-256 and individual links. Interface/Get Mods, Perspective30, Utility13, Slots13, Alone21, Tallbirds r40 and opt2 revisions. Partially validated candidates; publication runs no new QA and changes no binaries. [Detailed changes](NOVEDADES.md).
+
+
 ## 2026-11-01 — Combo Counter 0.1.0-alpha7-client
 
 ES: Se actualiza Combo a alfa7 con viñeta de nube compacta y número centrado; se conserva la lógica de contador de alfa6. Se publica el ZIP exacto y se actualizan enlaces y SHA-256. Esta candidata no tiene pruebas automáticas, nativas, visuales ni físicas registradas. Alfa6 permanece disponible como retorno. No se ejecutan pruebas del juego durante la publicación.
@@ -35,3 +42,4 @@ EN: The exact 0.13.4-alpha82-eco1 APK is published without rebuilding or changin
 **ES:** Eco82 se presenta como beta estable según la aceptación física comunicada por Ather. Se publican instrucciones y guía para testers en español e inglés. Esto no garantiza todos los dispositivos, combinaciones ni versiones posteriores del juego.
 
 **EN:** Eco82 is presented as a stable beta based on Ather's reported physical acceptance. Installation and tester guides are published in Spanish and English. This does not guarantee all devices, combinations or later game versions.
+

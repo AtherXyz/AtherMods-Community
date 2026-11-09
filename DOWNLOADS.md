@@ -1,44 +1,14 @@
-# Descargas / Downloads
+# Descargas / Downloads —2026-11-09
 
-## Ather Modpack — 30 ZIP
+- **[APK0.14.0-alpha158-workshop](https://github.com/AtherXyz/AtherMods-Community/releases/download/ather-mods-20261109-alpha158-pack31/AtherMods_0.14.0-alpha158-workshop.apk)** —11080262 bytes.
+- **[31 mods Android: enlaces individuales / individual links](ATHER-MODPACK.md)**.
+- [Todos los assets de esta entrega / All delivery assets](https://github.com/AtherXyz/AtherMods-Community/releases/tag/ather-mods-20261109-alpha158-pack31).
+- [Versiones y SHA-256 / Versions and SHA-256](release-manifest.json) · [SHA256SUMS.txt](SHA256SUMS.txt).
+- [Steam: Perspective29 y Combo8 / Perspective29 and Combo8](STEAM.md).
+- [Jeff:16descargas históricas, catálogo separado /16historical downloads, separate catalog](JEFF-MODLIST.md).
 
-**ES:** Los 30 mods están disponibles como archivos individuales. El catálogo incluye sus nombres, versiones, créditos y enlaces. No hace falta acceso a Drive ni iniciar sesión para descargarlos.
+ES: Sólo archivos versionados; se conserva [el historial](https://github.com/AtherXyz/AtherMods-Community/releases). Estas candidatas son para testers y no se consideran verificadas en todos los dispositivos. No actives simultáneamente Utility y Combo antiguo ni dos versiones de un mismo mod. Alone es opcional para mundos nuevos o expresamente compatibles.
 
-**EN:** All 30 mods are available as individual files. The catalog lists names, versions, credits and links. Drive access or signing in is not required to download them.
+EN: Versioned files only; [history](https://github.com/AtherXyz/AtherMods-Community/releases) is preserved. These candidates are for testers and are not considered verified on all devices. Do not enable Utility with old Combo or two versions of any mod. Alone is optional for new or explicitly compatible worlds.
 
-- [Catálogo y descargas individuales / Catalog and individual downloads](ATHER-MODPACK.md)
-- [Archivo inicial de 30 ZIP (Perspective alfa10 y Combo alfa6) / Initial 30-ZIP archive (Perspective alpha10 and Combo alpha6)](https://github.com/AtherXyz/AtherMods-Community/releases/tag/ather-modpack-30mods-20261031-r1)
-- [Manifiesto: versiones, tamaños y SHA-256 / Manifest: versions, sizes and SHA-256](release-manifest.json)
-- [SHA256SUMS.txt](SHA256SUMS.txt)
-
-## Jeff Modlist
-
-[16 descargas históricas individuales / 16 individual historical downloads](JEFF-MODLIST.md). ES: Catálogo separado, con versiones de alpha39 y créditos originales. EN: Separate catalog, with alpha39 versions and original credits.
-
-## Ather Mods App
-
-**ES:** La APK objetivo es **0.13.4-alpha82-eco1**, 1290454 bytes. Descarga pública individual disponible. Se comprobó el archivo descargado sin autenticación; tamaño y SHA-256 coinciden con la entrega registrada. Las versiones anteriores no se presentan como Eco82.
-
-**EN:** The target APK is **0.13.4-alpha82-eco1**, 1290454 bytes. An individual public download is available. The file was downloaded without authentication; its size and SHA-256 match the recorded delivery. Older versions are not presented as Eco82.
-
-[Descargar APK / Download APK](https://github.com/AtherXyz/AtherMods-Community/releases/download/v0.13.4-alpha82-eco1/AtherMods_0.13.4-alpha82-eco1.apk)
-
-SHA-256: `13212b2c9db8c3aac025e2f51e84181fd71a2ede4cc26125fdff25928c7184bd`
-
-**ES:** Los hashes identifican archivos; no sustituyen licencias ni garantizan compatibilidad. Las versiones históricas se conservan. **EN:** Hashes identify files; they do not replace licenses or guarantee compatibility. Historical versions are preserved.
-
-## Perspective — actualización / update
-
-[Descargar Perspective 0.1.4-alpha14 / Download Perspective 0.1.4-alpha14](https://github.com/AtherXyz/AtherMods-Community/releases/download/ather-perspective-v0.1.4-alpha14/Ather-Perspective-0.1.4-alpha14.zip)
-
-9141686 bytes · SHA-256 `e4b2a67db2495dc626503c8c6829ef8daa11f10afa7b4ac34149d949c8bc083e`
-
-ES: Sustituye alfa10 en el catálogo actual. Activa solo una versión de Perspective; conserva la anterior para volver atrás. EN: Replaces alpha10 in the current catalog. Enable only one Perspective version; retain the previous one for rollback.
-
-## Combo Counter — actualización / update
-
-[Descargar Combo Counter 0.1.0-alpha7-client / Download Combo Counter 0.1.0-alpha7-client](https://github.com/AtherXyz/AtherMods-Community/releases/download/ather-combo-counter-v0.1.0-alpha7-client/Ather-Combo-Counter-Attack-0.1.0-alpha7-client.zip)
-
-60272 bytes · SHA-256 `3e2469ad2c9e7210db6b33eb7c2d0965fddba9d1b04ec8b4e82309a56d61c419`
-
-ES: Alfa experimental con viñeta de nube compacta; pruebas automáticas, nativas, visuales y físicas pendientes. Desactiva alfa6 antes de activar alfa7 y conserva su archivo para volver atrás. EN: Experimental alpha with a compact cloud bubble; automated, native, visual and physical tests pending. Disable alpha6 before enabling alpha7 and retain its file for rollback.
+ES: Get Mods de la app158 conserva28 versiones comprobadas, mientras esta página ofrece31 candidatas recientes. EN: App158 Get Mods retains28 reviewed versions, while this page offers31 recent candidates.
