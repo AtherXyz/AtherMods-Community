@@ -10,12 +10,12 @@
   "release_url": "https://github.com/AtherXyz/AtherMods-Community/releases/tag/ather-mods-20261109-alpha158-pack31",
   "application": {
     "name": "Ather Mods",
-    "version": "0.14.0-alpha158-workshop",
-    "filename": "AtherMods_0.14.0-alpha158-workshop.apk",
-    "bytes": 11080262,
-    "sha256": "2d7c5a7eb3ced0cc3339867198e2752ce50503daee0e125510a4dd1d9f8148f4",
-    "download_url": "https://github.com/AtherXyz/AtherMods-Community/releases/download/ather-mods-20261109-alpha158-pack31/AtherMods_0.14.0-alpha158-workshop.apk",
-    "github_url": "https://github.com/AtherXyz/AtherMods-Community/releases/tag/ather-mods-20261109-alpha158-pack31",
+    "version": "0.14.1-alpha159-library",
+    "filename": "AtherMods_0.14.1-alpha159-library.apk",
+    "bytes": 17388294,
+    "sha256": "c681c491943ee29cc6edad555c279eb318904de198740bcfd0cc1ba1270aebcb",
+    "download_url": "https://github.com/AtherXyz/AtherMods-Community/releases/download/v0.14.1-alpha159-library/AtherMods_0.14.1-alpha159-library.apk",
+    "github_url": "https://github.com/AtherXyz/AtherMods-Community/releases/tag/v0.14.1-alpha159-library",
     "distribution_status": "PUBLIC_DOWNLOAD_AVAILABLE",
     "validation_status": "AUTOMATIC_PARTIAL_NATIVE_UI_PHYSICAL_PENDING"
   },
@@ -965,5 +965,6 @@
     "url": "https://github.com/AtherXyz/AtherMods-Community/blob/main/JEFF-MODLIST.md"
   },
   "validation_notice": "No new gameplay tests in this publication; exact latest cohort not physically validated / Sin pruebas nuevas del juego en esta publicación; conjunto reciente exacto no validado físicamente",
-  "rights_notice": "Original credits/notices retained; availability grants no new license / Créditos y avisos originales conservados; la disponibilidad no concede licencia nueva"
+  "rights_notice": "Original credits/notices retained; availability grants no new license / Créditos y avisos originales conservados; la disponibilidad no concede licencia nueva",
+  "application_release_url": "https://github.com/AtherXyz/AtherMods-Community/releases/tag/v0.14.1-alpha159-library"
 }

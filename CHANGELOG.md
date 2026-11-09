@@ -1,5 +1,12 @@
 # Cambios / Changelog
 
+##2026-11-09 —App159: biblioteca / library
+
+ES: Publicada APK0.14.1-alpha159-library: Mis mods con lista/filtros, interruptores de activación real y miniaturas originales. ZIP nuevos OFF por defecto; biblioteca existente conservada, guardas por mundo y sesión. Validación parcial; sin pruebas nativas/visuales/físicas nuevas. ModZIP y releases anteriores intactos.
+
+EN: Published APK0.14.1-alpha159-library: My Mods list/filters, real activation switches and original thumbnails. New ZIPs OFF by default; existing library retained, per-world and session guards. Partial validation; no new native/visual/physical tests. ModZIPs and previous releases unchanged.
+
+
 ## 2026-11-09 —app158 y31 mods / app158 and31 mods
 
 ES: Nueva entrega completa de APK y31 ZIP con versiones, créditos, SHA-256 y enlaces individuales. Interfaz/Get Mods, Perspective30, Utility13, Slots13, Alone21, Tallbirds r40 y revisiones opt2. Candidatas con validación parcial; no se ejecuta QA nuevo ni se modifican los binarios al publicarlos. [Novedades detalladas](NOVEDADES.md).

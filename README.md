@@ -1,10 +1,10 @@
 # ATHER MODS — actualización para testers / tester update
 
-**9 noviembre / November 2026:** app **0.14.0-alpha158-workshop** y **31 mods Android** con descargas individuales. / App **0.14.0-alpha158-workshop** and **31 Android mods**, individually downloadable.
+**9 noviembre / November 2026:** app **0.14.1-alpha159-library** y **31 mods Android** con descargas individuales. / App **0.14.1-alpha159-library** and **31 Android mods**, individually downloadable.
 
-- **[Descargar APK / Download APK](https://github.com/AtherXyz/AtherMods-Community/releases/download/ather-mods-20261109-alpha158-pack31/AtherMods_0.14.0-alpha158-workshop.apk)**
+- **[Descargar APK / Download APK](https://github.com/AtherXyz/AtherMods-Community/releases/download/v0.14.1-alpha159-library/AtherMods_0.14.1-alpha159-library.apk)**
 - **[Los31 mods y sus novedades / All31 mods and what's new](ATHER-MODPACK.md)**
-- [Release completa / Full release](https://github.com/AtherXyz/AtherMods-Community/releases/tag/ather-mods-20261109-alpha158-pack31)
+- [Archivo del pack31 /31-mod archive](https://github.com/AtherXyz/AtherMods-Community/releases/tag/ather-mods-20261109-alpha158-pack31)
 - [Instalación / Installation](INSTALL.md) · [Novedades / What's new](NOVEDADES.md)
 - [Steam: versiones propias / platform-specific versions](STEAM.md)
 - [Jeff Modlist: catálogo separado / separate catalog](JEFF-MODLIST.md)
@@ -23,3 +23,7 @@
 **EN:** Reference: original Playdigious Android game2.3.1(100) and Shizuku. Compatibility with later versions is unconfirmed. Preserve saves and profiles before changing mods. Alone is for new or explicitly compatible worlds only. The game is not distributed here.
 
 [Historial / History](https://github.com/AtherXyz/AtherMods-Community/releases) · [Créditos y licencias / Credits and licenses](THIRD-PARTY-NOTICES.md)
+
+**ES — Nueva159:** Mis mods incorpora lista completa, interruptores ON/OFF, filtros y miniaturas originales. Los ZIP nuevos quedan desactivados hasta elegirlos; activa los deseados antes de iniciar la sesión. Los perfiles de mundos existentes siguen protegidos.
+
+**EN — New159:** My Mods adds a full list, ON/OFF switches, filters and original thumbnails. New ZIPs remain disabled until selected; enable desired mods before starting a session. Existing world profiles remain protected.

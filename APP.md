@@ -1,31 +1,39 @@
-# Ather Mods App —0.14.0-alpha158-workshop
+# Ather Mods App —0.14.1-alpha159-library
 
-[Descargar APK / Download APK](https://github.com/AtherXyz/AtherMods-Community/releases/download/ather-mods-20261109-alpha158-pack31/AtherMods_0.14.0-alpha158-workshop.apk) · [Release](https://github.com/AtherXyz/AtherMods-Community/releases/tag/ather-mods-20261109-alpha158-pack31)
+[Descargar APK / Download APK](https://github.com/AtherXyz/AtherMods-Community/releases/download/v0.14.1-alpha159-library/AtherMods_0.14.1-alpha159-library.apk) · [Release](https://github.com/AtherXyz/AtherMods-Community/releases/tag/v0.14.1-alpha159-library)
 
-11080262 bytes · SHA-256 `2d7c5a7eb3ced0cc3339867198e2752ce50503daee0e125510a4dd1d9f8148f4`
+# Ather Mods0.14.1-alpha159-library
 
 ## Español
 
-Candidata Android que actualiza la interfaz y conserva el gestor de sesiones y perfiles de mundo.
+Actualización para testers sobre158, con el mismo paquete y firma para instalar como actualización.
 
-- Diseño azul oscuro/cian, arte de bosque y cinco acciones: Sesión con mods, Cancelar sesión, Crear carpeta, Seleccionar carpeta y Cargar ZIP.
-- Mis mods/Get Mods, búsqueda y filtros, fichas, enlaces a GitHub, progreso y cancelación de descarga.
-- Verificación de ZIP y descarga a una carpeta elegida con el selector de Android; conserva versiones existentes y no activa la sesión automáticamente.
-- Estado de Shizuku al inicio y tutorial breve. Los permisos deben concederse mediante el flujo de la app.
-- Mods de cliente globales y de servidor por mundo; perfiles existentes no se migran silenciosamente. Conserva correcciones recientes de recuperación e integración Alone.
+- Mis mods: lista completa, interruptor por mod y filtros Todos/Activados/Desactivados.
+- Miniaturas originales y gris para desactivados; indicador neutro si el mod no aporta imagen.
+- La biblioteca existente conserva su activación inicial. Los ZIP nuevos quedan apagados hasta elegirlos.
+- Los interruptores se aplican a la siguiente sesión. Si todo está desactivado, no se inicia una sesión con mods.
+- Mundos nuevos usan la selección de servidor elegida; los existentes conservan perfiles sellados. Si desactivas un mod requerido por un mundo, el gestor pide reactivarlo en lugar de migrar su perfil silenciosamente.
 
-Get Mods ofrece28 versiones previamente comprobadas. Las31 candidatas nuevas se ofrecen en el catálogo web y se importan manualmente. El diseño y flujo completo de selector/descarga aún requieren validación física. Los errores heredados de determinados mundos no se consideran resueltos por un cambio visual.
+Candidata con validación parcial. Hay comprobaciones automáticas registradas y un fallo de fixture conservado; no hay nueva ejecución nativa ni validación física/visual de159. No se afirma resuelto el problema heredado de determinados mundos ni se hereda aceptación de una versión anterior.
+
+APK17388294bytes. SHA-256: `c681c491943ee29cc6edad555c279eb318904de198740bcfd0cc1ba1270aebcb`.
+
+Get Mods mantiene28versiones comprobadas; las31candidatas recientes se ofrecen por el catálogo web. Los ZIP no cambian. Conserva partidas y versiones anteriores.
 
 ## English
 
-Android candidate updating the interface while retaining session and world-profile management.
+Tester update based on158, retaining the same package and signing identity for an in-place update.
 
-- Dark blue/cyan design, forest art and five actions: mod session, cancel session, create folder, select folder and load ZIP.
-- My Mods/Get Mods, search and filters, details, GitHub links, download progress and cancellation.
-- ZIP verification and download to an Android-picker folder; preserves existing versions and does not automatically enable a session.
-- Startup Shizuku status and brief tutorial. Grant permissions through the app's own flow.
-- Global client and per-world server mods; existing profiles are not silently migrated. Retains recent recovery and Alone integration fixes.
+- My Mods: complete list, per-mod switches and All/Enabled/Disabled filters.
+- Original thumbnails, greyed out for disabled mods; neutral indicator when no original image exists.
+- Existing library entries retain their initial enabled state. New ZIPs remain off until selected.
+- Switch changes apply to the next session. A mod session cannot start when everything is disabled.
+- New worlds use selected server mods; existing worlds retain sealed profiles. Disabling a world-required mod prompts reactivation rather than silently migrating its profile.
 
-Get Mods offers28 previously reviewed versions. The31new candidates are in the web catalog and can be imported manually. Design and the complete picker/download flow still need physical validation. Inherited errors in particular worlds are not considered resolved by a visual update.
+Partially validated candidate. Recorded automated checks and a retained fixture failure; no new native execution or physical/visual validation for159. No claim that inherited errors in particular worlds are resolved or previous-version acceptance transferred.
 
-[Instalación / Installation](INSTALL.md) · [Estado y novedades / Status and changes](NOVEDADES.md)
+APK17388294bytes. SHA-256: `c681c491943ee29cc6edad555c279eb318904de198740bcfd0cc1ba1270aebcb`.
+
+Get Mods retains28reviewed versions; the31recent candidates are offered through the web catalog. Mod ZIPs are unchanged. Preserve saves and previous versions.
+
+[Instalación / Installation](https://github.com/AtherXyz/AtherMods-Community/blob/main/INSTALL.md) · [Mods](https://github.com/AtherXyz/AtherMods-Community/blob/main/ATHER-MODPACK.md)
