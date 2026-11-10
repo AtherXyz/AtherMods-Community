@@ -1,8 +1,8 @@
 # ATHER MODS — actualización para testers / tester update
 
-**9 noviembre / November 2026:** app **0.14.1-alpha159-library** y **31 mods Android** con descargas individuales. / App **0.14.1-alpha159-library** and **31 Android mods**, individually downloadable.
+**10 noviembre / November 2026:** app **0.14.2-alpha160-alone22** y **31 mods Android** con descargas individuales. / App **0.14.2-alpha160-alone22** and **31 Android mods**, individually downloadable.
 
-- **[Descargar APK / Download APK](https://github.com/AtherXyz/AtherMods-Community/releases/download/v0.14.1-alpha159-library/AtherMods_0.14.1-alpha159-library.apk)**
+- **[Descargar APK / Download APK](https://github.com/AtherXyz/AtherMods-Community/releases/download/v0.14.2-alpha160-alone22/AtherMods_0.14.2-alpha160-alone22.apk)**
 - **[Los31 mods y sus novedades / All31 mods and what's new](ATHER-MODPACK.md)**
 - [Archivo del pack31 /31-mod archive](https://github.com/AtherXyz/AtherMods-Community/releases/tag/ather-mods-20261109-alpha158-pack31)
 - [Instalación / Installation](INSTALL.md) · [Novedades / What's new](NOVEDADES.md)
@@ -10,9 +10,9 @@
 - [Jeff Modlist: catálogo separado / separate catalog](JEFF-MODLIST.md)
 - [Descargas y hashes / Downloads and hashes](DOWNLOADS.md) · [Informar errores / Report issues](TESTERS.md)
 
-**ES:** La app estrena Mis mods/Get Mods, búsqueda, filtros y descarga con progreso. Perspective30, Utility13 (evolución de Combo), Slots13 y Alone21 incorporan las correcciones recientes. El resto del pack incluye revisiones opt2. Utility sustituye al Combo antiguo; Alone es opcional. No actives dos versiones del mismo mod.
+**ES:** La app estrena Mis mods/Get Mods, búsqueda, filtros y descarga con progreso. Perspective30, Utility13 (evolución de Combo), Slots13 y Alone22 incorporan las correcciones recientes. El resto del pack incluye revisiones opt2. Utility sustituye al Combo antiguo; Alone es opcional. No actives dos versiones del mismo mod.
 
-**EN:** The app adds My Mods/Get Mods, search, filters and downloads with progress. Perspective30, Utility13 (evolving Combo), Slots13 and Alone21 incorporate recent fixes. Other mods include opt2 revisions. Utility replaces old Combo; Alone is optional. Do not enable two versions of the same mod.
+**EN:** The app adds My Mods/Get Mods, search, filters and downloads with progress. Perspective30, Utility13 (evolving Combo), Slots13 and Alone22 incorporate recent fixes. Other mods include opt2 revisions. Utility replaces old Combo; Alone is optional. Do not enable two versions of the same mod.
 
 **ES — Estado:** candidatas alfa para testers, con validación parcial y comprobación física pendiente. La aceptación de Eco82 no se hereda. Get Mods conserva28 versiones previamente comprobadas; las31 candidatas se descargan desde la web. No se promete que hayan desaparecido todos los tirones ni mejora universal de FPS/RAM.
 
@@ -27,3 +27,7 @@
 **ES — Nueva159:** Mis mods incorpora lista completa, interruptores ON/OFF, filtros y miniaturas originales. Los ZIP nuevos quedan desactivados hasta elegirlos; activa los deseados antes de iniciar la sesión. Los perfiles de mundos existentes siguen protegidos.
 
 **EN — New159:** My Mods adds a full list, ON/OFF switches, filters and original thumbnails. New ZIPs remain disabled until selected; enable desired mods before starting a session. Existing world profiles remain protected.
+
+**ES — Actualización10noviembre:** Alone22 permite cuenta online con partida local de1jugador ycuevas; requiere la nueva APK160. [Descargar Alone22](https://github.com/AtherXyz/AtherMods-Community/releases/download/v0.14.2-alpha160-alone22/Ather-Alone-0.1.0-alpha22-online-local.zip). Se conservan mundos/perfiles anteriores; validación física y del login/regalo real pendientes.
+
+**EN — November10update:** Alone22 allows an online account with local1-player play and caves; requires new APK160. [Download Alone22](https://github.com/AtherXyz/AtherMods-Community/releases/download/v0.14.2-alpha160-alone22/Ather-Alone-0.1.0-alpha22-online-local.zip). Previous worlds/profiles retained; physical and real login/gift validation pending.

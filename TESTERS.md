@@ -1,8 +1,8 @@
 # Testers —informe de errores / issue reports
 
-ES: La app159 y el catálogo reciente de31 mods se publican para ampliar validación. No heredan la aceptación física de Eco82 ni se garantiza compatibilidad universal. Get Mods conserva su lista de28 versiones comprobadas; las candidatas recientes se ofrecen por web.
+ES: La app160 y el catálogo reciente de31 mods se publican para ampliar validación. No heredan la aceptación física de Eco82 ni se garantiza compatibilidad universal. Get Mods conserva su lista de28 versiones comprobadas; las candidatas recientes se ofrecen por web.
 
-EN: App159 and the recent31-mod catalog are published to extend validation. They do not inherit Eco82 physical acceptance and universal compatibility is not guaranteed. Get Mods retains its28 reviewed versions; recent candidates are offered on the web.
+EN: App160 and the recent31-mod catalog are published to extend validation. They do not inherit Eco82 physical acceptance and universal compatibility is not guaranteed. Get Mods retains its28 reviewed versions; recent candidates are offered on the web.
 
 [Crear informe / Create report](https://github.com/AtherXyz/AtherMods-Community/issues/new)
 

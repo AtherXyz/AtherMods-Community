@@ -1,7 +1,7 @@
 {
   "schema": "ather.workshop.catalog.v1",
   "repository": "AtherXyz/AtherMods-Community",
-  "date": "2026-11-09",
+  "date": "2026-11-10",
   "languages": [
     "es",
     "en"
@@ -10,12 +10,12 @@
   "release_url": "https://github.com/AtherXyz/AtherMods-Community/releases/tag/ather-mods-20261109-alpha158-pack31",
   "application": {
     "name": "Ather Mods",
-    "version": "0.14.1-alpha159-library",
-    "filename": "AtherMods_0.14.1-alpha159-library.apk",
+    "version": "0.14.2-alpha160-alone22",
+    "filename": "AtherMods_0.14.2-alpha160-alone22.apk",
     "bytes": 17388294,
-    "sha256": "c681c491943ee29cc6edad555c279eb318904de198740bcfd0cc1ba1270aebcb",
-    "download_url": "https://github.com/AtherXyz/AtherMods-Community/releases/download/v0.14.1-alpha159-library/AtherMods_0.14.1-alpha159-library.apk",
-    "github_url": "https://github.com/AtherXyz/AtherMods-Community/releases/tag/v0.14.1-alpha159-library",
+    "sha256": "ce897bf176d5b2462c4fd051541b810b323c4283f07426caa979f643f564c414",
+    "download_url": "https://github.com/AtherXyz/AtherMods-Community/releases/download/v0.14.2-alpha160-alone22/AtherMods_0.14.2-alpha160-alone22.apk",
+    "github_url": "https://github.com/AtherXyz/AtherMods-Community/releases/tag/v0.14.2-alpha160-alone22",
     "distribution_status": "PUBLIC_DOWNLOAD_AVAILABLE",
     "validation_status": "AUTOMATIC_PARTIAL_NATIVE_UI_PHYSICAL_PENDING"
   },
@@ -38,19 +38,20 @@
     },
     {
       "name": "Ather Alone Android",
-      "version": "0.1.0-alpha21-bootstrap-cleanup",
+      "version": "0.1.0-alpha22-online-local",
       "role": "server",
-      "filename": "Ather-Alone-0.1.0-alpha21-bootstrap-cleanup.zip",
-      "bytes": 234491,
-      "sha256": "f0df6345cce160f89ca48041a078dc64b8fa59deb4faeb4ac040400f8b4c5a2a",
+      "filename": "Ather-Alone-0.1.0-alpha22-online-local.zip",
+      "bytes": 236757,
+      "sha256": "e3a5ba85b6c2150418b99b83fcc89925b84387ee1314ccbe4ffeeabad7b47e7e",
       "id": "ather-alone",
       "author": "LaoWang; adaptación Android Ather (referencia Jeff)",
-      "description_es": "Modo local individual con integración del gestor; limpieza del índice temporal de perecederos. Opcional: sólo mundos nuevos o expresamente compatibles.",
-      "description_en": "Local single-player mode integrated with the manager; temporary perishable-index cleanup. Optional: new or explicitly compatible worlds only.",
-      "download_url": "https://github.com/AtherXyz/AtherMods-Community/releases/download/ather-mods-20261109-alpha158-pack31/Ather-Alone-0.1.0-alpha21-bootstrap-cleanup.zip",
-      "github_url": "https://github.com/AtherXyz/AtherMods-Community/releases/tag/ather-mods-20261109-alpha158-pack31",
+      "description_es": "Cuenta online u offline manteniendo Local Only,1jugador ycuevas. Requiere gestor160; perfiles existentes no migrados.",
+      "description_en": "Online or offline account retaining Local Only,1player and caves. Requires manager160; existing profiles not migrated.",
+      "download_url": "https://github.com/AtherXyz/AtherMods-Community/releases/download/v0.14.2-alpha160-alone22/Ather-Alone-0.1.0-alpha22-online-local.zip",
+      "github_url": "https://github.com/AtherXyz/AtherMods-Community/releases/tag/v0.14.2-alpha160-alone22",
       "distribution_status": "PUBLIC_DOWNLOAD_AVAILABLE",
-      "validation_status": "AUTOMATIC_PARTIAL_NATIVE_PHYSICAL_PENDING"
+      "validation_status": "AUTOMATIC_PARTIAL_NATIVE_PHYSICAL_PENDING",
+      "requires_manager": "0.14.2-alpha160-alone22"
     },
     {
       "name": "Lovely Tallbird Family r40-egg1",
@@ -966,5 +967,5 @@
   },
   "validation_notice": "No new gameplay tests in this publication; exact latest cohort not physically validated / Sin pruebas nuevas del juego en esta publicación; conjunto reciente exacto no validado físicamente",
   "rights_notice": "Original credits/notices retained; availability grants no new license / Créditos y avisos originales conservados; la disponibilidad no concede licencia nueva",
-  "application_release_url": "https://github.com/AtherXyz/AtherMods-Community/releases/tag/v0.14.1-alpha159-library"
+  "application_release_url": "https://github.com/AtherXyz/AtherMods-Community/releases/tag/v0.14.2-alpha160-alone22"
 }

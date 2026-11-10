@@ -1,6 +1,6 @@
-# Descargas / Downloads —2026-11-09
+# Descargas / Downloads —2026-11-10
 
-- **[APK0.14.1-alpha159-library](https://github.com/AtherXyz/AtherMods-Community/releases/download/v0.14.1-alpha159-library/AtherMods_0.14.1-alpha159-library.apk)** —17388294 bytes.
+- **[APK0.14.2-alpha160-alone22](https://github.com/AtherXyz/AtherMods-Community/releases/download/v0.14.2-alpha160-alone22/AtherMods_0.14.2-alpha160-alone22.apk)** —17388294 bytes.
 - **[31 mods Android: enlaces individuales / individual links](ATHER-MODPACK.md)**.
 - [Archivo previo de31mods (APK158) / Previous31-mod archive (APK158)](https://github.com/AtherXyz/AtherMods-Community/releases/tag/ather-mods-20261109-alpha158-pack31).
 - [Versiones y SHA-256 / Versions and SHA-256](release-manifest.json) · [SHA256SUMS.txt](SHA256SUMS.txt).
@@ -11,4 +11,4 @@ ES: Sólo archivos versionados; se conserva [el historial](https://github.com/At
 
 EN: Versioned files only; [history](https://github.com/AtherXyz/AtherMods-Community/releases) is preserved. These candidates are for testers and are not considered verified on all devices. Do not enable Utility with old Combo or two versions of any mod. Alone is optional for new or explicitly compatible worlds.
 
-ES: Get Mods de la app159 conserva28 versiones comprobadas, mientras esta página ofrece31 candidatas recientes. EN: App159 Get Mods retains28 reviewed versions, while this page offers31 recent candidates.
+ES: Get Mods de la app160 conserva28 versiones comprobadas, mientras esta página ofrece31 candidatas recientes. EN: App160 Get Mods retains28 reviewed versions, while this page offers31 recent candidates.

@@ -88,3 +88,7 @@ ES: Autor Ather. Actualización visual de la viñeta de nube. Ather solicita pub
 
 EN: Author Ather. Visual cloud-bubble update. Ather requests publication of this exact ZIP. Alpha6 remains a historical file; its validation is not claimed to cover alpha7. No new open-source license is granted and no third-party resources are relicensed.
 
+
+## Alone22 / App160
+
+ES: Se conservan los créditos de LaoWang, adaptación Android Ather y referencia Jeff. ZIP y APK exactos publicados sin relicenciar dependencias/recursos. EN: LaoWang credits, Ather Android adaptation and Jeff reference retained. Exact ZIP and APK published without relicensing dependencies/assets.

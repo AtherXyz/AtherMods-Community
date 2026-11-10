@@ -1,39 +1,33 @@
-# Ather Mods App —0.14.1-alpha159-library
+# Ather Mods App —0.14.2-alpha160-alone22
 
-[Descargar APK / Download APK](https://github.com/AtherXyz/AtherMods-Community/releases/download/v0.14.1-alpha159-library/AtherMods_0.14.1-alpha159-library.apk) · [Release](https://github.com/AtherXyz/AtherMods-Community/releases/tag/v0.14.1-alpha159-library)
+[Descargar APK / Download APK](https://github.com/AtherXyz/AtherMods-Community/releases/download/v0.14.2-alpha160-alone22/AtherMods_0.14.2-alpha160-alone22.apk) · [Release](https://github.com/AtherXyz/AtherMods-Community/releases/tag/v0.14.2-alpha160-alone22)
 
-# Ather Mods0.14.1-alpha159-library
+17388294 bytes · SHA-256 `ce897bf176d5b2462c4fd051541b810b323c4283f07426caa979f643f564c414`
 
 ## Español
 
-Actualización para testers sobre158, con el mismo paquete y firma para instalar como actualización.
+Gestor160 necesario para importar y elegir el ZIP Alone22 en nuevos perfiles. Conserva admisión de versiones19/20/21 para sus perfiles existentes, firma/paquete y las funciones de159:
 
-- Mis mods: lista completa, interruptor por mod y filtros Todos/Activados/Desactivados.
-- Miniaturas originales y gris para desactivados; indicador neutro si el mod no aporta imagen.
-- La biblioteca existente conserva su activación inicial. Los ZIP nuevos quedan apagados hasta elegirlos.
-- Los interruptores se aplican a la siguiente sesión. Si todo está desactivado, no se inicia una sesión con mods.
-- Mundos nuevos usan la selección de servidor elegida; los existentes conservan perfiles sellados. Si desactivas un mod requerido por un mundo, el gestor pide reactivarlo en lugar de migrar su perfil silenciosamente.
+- Mis mods con lista completa, interruptores, filtros y miniaturas originales.
+- Nuevos ZIP apagados hasta activarlos; biblioteca existente conservada. Cambios a la siguiente sesión.
+- Get Mods con28versiones comprobadas;31candidatas recientes en el catálogo web.
+- Shizuku, selección de carpeta, carga de ZIP y guardas de perfiles/mundos.
 
-Candidata con validación parcial. Hay comprobaciones automáticas registradas y un fallo de fixture conservado; no hay nueva ejecución nativa ni validación física/visual de159. No se afirma resuelto el problema heredado de determinados mundos ni se hereda aceptación de una versión anterior.
+Alone22 acepta cuenta online u offline manteniendo Local Only,1jugador ycuevas. No migra perfiles ni modos de partidas existentes. Mantiene autenticación y flujo vanilla de regalos, pero no concede premios ni acredita recepción de regalos reales.
 
-APK17388294bytes. SHA-256: `c681c491943ee29cc6edad555c279eb318904de198740bcfd0cc1ba1270aebcb`.
-
-Get Mods mantiene28versiones comprobadas; las31candidatas recientes se ofrecen por el catálogo web. Los ZIP no cambian. Conserva partidas y versiones anteriores.
+Validación parcial: comprobaciones automáticas registradas y fallo de fixture conservado. Pruebas nativas/visuales/físicas pendientes. No se afirma que corrija errores heredados de otros mundos.
 
 ## English
 
-Tester update based on158, retaining the same package and signing identity for an in-place update.
+Manager160 is required to import and select the exact Alone22 ZIP for new profiles. Retains versions19/20/21 for their existing profiles, signing/package identity and159 features:
 
-- My Mods: complete list, per-mod switches and All/Enabled/Disabled filters.
-- Original thumbnails, greyed out for disabled mods; neutral indicator when no original image exists.
-- Existing library entries retain their initial enabled state. New ZIPs remain off until selected.
-- Switch changes apply to the next session. A mod session cannot start when everything is disabled.
-- New worlds use selected server mods; existing worlds retain sealed profiles. Disabling a world-required mod prompts reactivation rather than silently migrating its profile.
+- My Mods full list, switches, filters and original thumbnails.
+- New ZIPs off until enabled; existing library retained. Changes apply to the next session.
+- Get Mods with28reviewed versions;31recent candidates in the web catalog.
+- Shizuku, folder selection, ZIP import and world/profile guards.
 
-Partially validated candidate. Recorded automated checks and a retained fixture failure; no new native execution or physical/visual validation for159. No claim that inherited errors in particular worlds are resolved or previous-version acceptance transferred.
+Alone22 accepts an online or offline account while retaining Local Only,1player and caves. Does not migrate existing save profiles or modes. Retains vanilla authentication and gift flow but grants no rewards and does not establish real gift receipt.
 
-APK17388294bytes. SHA-256: `c681c491943ee29cc6edad555c279eb318904de198740bcfd0cc1ba1270aebcb`.
+Partial validation: recorded automated checks and a retained fixture failure. Native/visual/physical tests pending. No claim that inherited errors in other worlds are resolved.
 
-Get Mods retains28reviewed versions; the31recent candidates are offered through the web catalog. Mod ZIPs are unchanged. Preserve saves and previous versions.
-
-[Instalación / Installation](https://github.com/AtherXyz/AtherMods-Community/blob/main/INSTALL.md) · [Mods](https://github.com/AtherXyz/AtherMods-Community/blob/main/ATHER-MODPACK.md)
+[Instalación / Installation](INSTALL.md) · [Mods](ATHER-MODPACK.md)

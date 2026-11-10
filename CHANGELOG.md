@@ -1,5 +1,12 @@
 # Cambios / Changelog
 
+##2026-11-10 —Alone22 + gestor160
+
+ES: Cuenta online con partida local de1jugador/cuevas, autenticación vanilla y perfiles/mode guardados conservados. APK160 necesaria para el ZIP22 exacto. Catálogo, descargas, guía y hashes actualizados; versiones anteriores disponibles. Validación parcial, sin nueva prueba física o recepción de regalos confirmada.
+
+EN: Online account with local1-player/caves play, vanilla authentication and saved profiles/mode retained. APK160 required for exact ZIP22. Catalog, downloads, guide and hashes updated; older versions remain available. Partial validation; no new physical test or confirmed gift receipt.
+
+
 ##2026-11-09 —App159: biblioteca / library
 
 ES: Publicada APK0.14.1-alpha159-library: Mis mods con lista/filtros, interruptores de activación real y miniaturas originales. ZIP nuevos OFF por defecto; biblioteca existente conservada, guardas por mundo y sesión. Validación parcial; sin pruebas nativas/visuales/físicas nuevas. ModZIP y releases anteriores intactos.

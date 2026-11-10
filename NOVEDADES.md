@@ -1,3 +1,37 @@
+# DST Alone alpha22 + Ather Mods alpha160
+
+## Español
+
+**Alone0.1.0-alpha22-online-local requiere Ather Mods0.14.2-alpha160-alone22.** Se incluyen ambos archivos exactos, sin recompilar ni modificar sus bytes.
+
+Alone22 permite cuenta online manteniendo la partida local: privacidad Local Only, máximo1jugador y cuevas. Conserva las comprobaciones de autenticación y el flujo vanilla de regalos de inicio de sesión. Permitirlo no concede regalos ni evita requisitos del servidor; cuenta/login/regalo real siguen sin comprobarse.
+
+El gestor160 admite esta versión exacta y conserva la biblioteca, interruptores y miniaturas de159. Los ZIP nuevos siguen apagados hasta activación. Instala160, importa22 y usa un perfil nuevo o expresamente compatible. Las partidas existentes conservan versión y modo de su perfil; no se migran silenciosamente. Desactiva Alone anterior antes de elegir22 para un mundo nuevo; conserva los ZIP antiguos para sus mundos.
+
+**Candidatas con validación parcial:** comprobaciones automáticas registradas y un fallo de fixture conservado en el gestor. No hubo ejecución en teléfono/emulador ni validación física/visual de estas versiones. No se promete corregir errores heredados de otras partidas.
+
+## English
+
+**Alone0.1.0-alpha22-online-local requires Ather Mods0.14.2-alpha160-alone22.** Both exact files are included without rebuilding or changing their bytes.
+
+Alone22 allows an online account while retaining local play: Local Only privacy, maximum1player and caves. Retains vanilla authentication checks and login-gift flow. Allowing it does not grant gifts or bypass server requirements; real account/login/gift behavior remains unverified.
+
+Manager160 admits this exact version and retains159's library, switches and thumbnails. New ZIPs remain off until enabled. Install160, import22 and use a new or explicitly compatible profile. Existing worlds retain their profile's version and mode; no silent migration. Disable older Alone before selecting22 for a new world; retain old ZIPs for their worlds.
+
+**Partially validated candidates:** recorded automated checks and a retained manager fixture failure. No phone/emulator execution or physical/visual validation of these versions. No promise to resolve inherited errors in other saves.
+
+## Archivos / Files
+
+- `Ather-Alone-0.1.0-alpha22-online-local.zip`:236757bytes; SHA-256 `e3a5ba85b6c2150418b99b83fcc89925b84387ee1314ccbe4ffeeabad7b47e7e`.
+- `AtherMods_0.14.2-alpha160-alone22.apk`:17388294bytes; SHA-256 `ce897bf176d5b2462c4fd051541b810b323c4283f07426caa979f643f564c414`.
+
+[Instalación / Installation](https://github.com/AtherXyz/AtherMods-Community/blob/main/INSTALL.md) · [Catálogo / Catalog](https://github.com/AtherXyz/AtherMods-Community/blob/main/ATHER-MODPACK.md)
+
+ES: Créditos Alone: LaoWang; adaptación Android Ather, referencia Jeff. Se conservan derechos y avisos; publicación sin licencia nueva. EN: Alone credits: LaoWang; Ather Android adaptation, Jeff reference. Rights and notices retained; publication grants no new license.
+
+
+# Entregas anteriores / Previous deliveries
+
 # Ather Mods0.14.1-alpha159-library
 
 ## Español

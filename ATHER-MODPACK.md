@@ -14,13 +14,13 @@ ES: Interacciones contextuales y trabajo continuo CHOP/MINE/DIG al mantener puls
 
 EN: Contextual interactions and continuous held CHOP/MINE/DIG work; chaining after2s, chest targeting and protection against callbacks from a previous interface.
 
-**Ather Alone Android — `0.1.0-alpha21-bootstrap-cleanup`** · [Descargar / Download](https://github.com/AtherXyz/AtherMods-Community/releases/download/ather-mods-20261109-alpha158-pack31/Ather-Alone-0.1.0-alpha21-bootstrap-cleanup.zip)
+**Ather Alone Android — `0.1.0-alpha22-online-local`** · [Descargar / Download](https://github.com/AtherXyz/AtherMods-Community/releases/download/v0.14.2-alpha160-alone22/Ather-Alone-0.1.0-alpha22-online-local.zip)
 
 Servidor / Server · Créditos / Credits: LaoWang; adaptación Android Ather (referencia Jeff).
 
-ES: Modo local individual con integración del gestor; limpieza del índice temporal de perecederos. Opcional: sólo mundos nuevos o expresamente compatibles.
+ES: Cuenta online u offline con partida Local Only,1jugador ycuevas; autenticación vanilla conservada. Requiere gestor160; perfiles existentes conservados.
 
-EN: Local single-player mode integrated with the manager; temporary perishable-index cleanup. Optional: new or explicitly compatible worlds only.
+EN: Online or offline account with Local Only play,1player and caves; vanilla authentication retained. Requires manager160; existing profiles preserved.
 
 **Lovely Tallbird Family r40-egg1 — `26.10.16-ather-r40-egg1`** · [Descargar / Download](https://github.com/AtherXyz/AtherMods-Community/releases/download/ather-mods-20261109-alpha158-pack31/Lovely-Tallbird-Family-Android-r40-egg1.zip)
 
@@ -257,3 +257,5 @@ EN: Avoids resending identical tints during keyboard refresh; input and release 
 ES: Descarga disponible no significa prueba física superada. Slots13/Utility13/Perspective30/Alone21 tienen límites descritos en Novedades; las revisiones opt2 conservan validación nativa/física pendiente. Las autorías originales y procedencias de Jeff se conservan: adaptar un mod no convierte su autoría en Ather. [Jeff Modlist](JEFF-MODLIST.md) sigue independiente.
 
 EN: Download availability does not mean physical testing passed. Slots13/Utility13/Perspective30/Alone21 have limits documented in What's New; opt2 revisions retain pending native/physical validation. Original authors and Jeff provenance are retained: adaptation does not transfer authorship to Ather. [Jeff Modlist](JEFF-MODLIST.md) remains independent.
+
+ES: Alone22 no concede premios ni evita requisitos del servidor. Login/regalo real y prueba física pendientes. No adopta mundos con perfil o modo distintos. EN: Alone22 does not grant rewards or bypass server requirements. Real login/gift and physical testing pending. Does not adopt worlds with a different profile or mode.
